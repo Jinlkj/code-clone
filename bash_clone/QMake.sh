@@ -1,0 +1,37 @@
+#!/bin/bash
+
+git clone https://github.com/horsicq/XPEViewer '/storage/nvme5/new_clones/QMake/XPEViewer' &
+git clone https://github.com/horsicq/xntsv '/storage/nvme5/new_clones/QMake/xntsv' &
+git clone https://github.com/zhousoft/TsingHuaDataStructOj '/storage/nvme5/new_clones/QMake/TsingHuaDataStructOj' &
+git clone https://github.com/chiaxin/MayaAPI101 '/storage/nvme5/new_clones/QMake/MayaAPI101' &
+git clone https://github.com/juangburgos/QCrashHandler '/storage/nvme5/new_clones/QMake/QCrashHandler' &
+git clone https://github.com/fansys/redis-desktop-manager '/storage/nvme5/new_clones/QMake/redis-desktop-manager' &
+git clone https://github.com/aeagean/DeployByQmake '/storage/nvme5/new_clones/QMake/DeployByQmake' &
+git clone https://github.com/torresolmx/PhoenixGeoPy '/storage/nvme5/new_clones/QMake/PhoenixGeoPy' &
+git clone https://github.com/benlau/qtandroidexamplecode '/storage/nvme5/new_clones/QMake/qtandroidexamplecode' &
+git clone https://github.com/idelsink/qtcreator_sub_dir_example '/storage/nvme5/new_clones/QMake/qtcreator_sub_dir_example' &
+git clone https://github.com/manashmandal/OpenCV-With-QT-Quick-Demo '/storage/nvme5/new_clones/QMake/OpenCV-With-QT-Quick-Demo' &
+git clone https://github.com/jaredtao/HelloCI '/storage/nvme5/new_clones/QMake/HelloCI' &
+git clone https://github.com/irenjie/Phase-Measuring-Deflectometry '/storage/nvme5/new_clones/QMake/Phase-Measuring-Deflectometry' &
+git clone https://github.com/TimmHess/UERoboCup '/storage/nvme5/new_clones/QMake/UERoboCup' &
+git clone https://github.com/omega-gg/MotionMonkey-dev '/storage/nvme5/new_clones/QMake/MotionMonkey-dev' &
+git clone https://github.com/viva64/pvs-studio-qmake-examples '/storage/nvme5/new_clones/QMake/pvs-studio-qmake-examples' &
+git clone https://github.com/olear/natron-linux '/storage/nvme5/new_clones/QMake/natron-linux' &
+git clone https://github.com/youngerking1985/QML_Learn '/storage/nvme5/new_clones/QMake/QML_Learn' &
+git clone https://github.com/codyps/qmake-protobuf-example '/storage/nvme5/new_clones/QMake/qmake-protobuf-example' &
+git clone https://github.com/horsicq/XVelesDA '/storage/nvme5/new_clones/QMake/XVelesDA' &
+git clone https://github.com/jspinella/verizonTethering '/storage/nvme5/new_clones/QMake/verizonTethering' &
+git clone https://github.com/rm5248/qt-qtest-project-setup '/storage/nvme5/new_clones/QMake/qt-qtest-project-setup' &
+git clone https://github.com/ascii78/esp-template-qtcreator '/storage/nvme5/new_clones/QMake/esp-template-qtcreator' &
+git clone https://github.com/jaredtao/TaoModule '/storage/nvme5/new_clones/QMake/TaoModule' &
+git clone https://github.com/aeagean/Hanzi2Pinyin '/storage/nvme5/new_clones/QMake/Hanzi2Pinyin' &
+git clone https://github.com/horsicq/XIPADetector '/storage/nvme5/new_clones/QMake/XIPADetector' &
+git clone https://github.com/maply/org-qtmob-material-wrapper '/storage/nvme5/new_clones/QMake/org-qtmob-material-wrapper' &
+git clone https://github.com/lukevear/qmakeAndroidSourcesHelper '/storage/nvme5/new_clones/QMake/qmakeAndroidSourcesHelper' &
+git clone https://github.com/westomopresto/Grapple '/storage/nvme5/new_clones/QMake/Grapple' &
+git clone https://github.com/Tw1ddle/geometrize-installer '/storage/nvme5/new_clones/QMake/geometrize-installer' &
+git clone https://github.com/CarePackage17/gstreamer-android-qt-app '/storage/nvme5/new_clones/QMake/gstreamer-android-qt-app' &
+git clone https://github.com/yuyilei/Word-Ladder '/storage/nvme5/new_clones/QMake/Word-Ladder' &
+git clone https://github.com/flythekate/ADS '/storage/nvme5/new_clones/QMake/ADS' &
+git clone https://github.com/dridk/abif '/storage/nvme5/new_clones/QMake/abif' &
+git clone https://github.com/edips/Minimal_QML_Android '/storage/nvme5/new_clones/QMake/Minimal_QML_Android' &

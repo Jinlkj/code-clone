@@ -1,0 +1,34 @@
+#!/bin/bash
+
+git clone https://github.com/onflow/flow-nft '/storage/nvme5/new_clones/Cadence/flow-nft' &
+git clone https://github.com/onflow/flow-ft '/storage/nvme5/new_clones/Cadence/flow-ft' &
+git clone https://github.com/onflow/nft-storefront '/storage/nvme5/new_clones/Cadence/nft-storefront' &
+git clone https://github.com/emerald-dao/float '/storage/nvme5/new_clones/Cadence/float' &
+git clone https://github.com/blocto/bloctoswap-contracts '/storage/nvme5/new_clones/Cadence/bloctoswap-contracts' &
+git clone https://github.com/onflow/nft-catalog '/storage/nvme5/new_clones/Cadence/nft-catalog' &
+git clone https://github.com/findonflow/find '/storage/nvme5/new_clones/Cadence/find' &
+git clone https://github.com/alchemyplatform/alchemy-flow-contracts '/storage/nvme5/new_clones/Cadence/alchemy-flow-contracts' &
+git clone https://github.com/onflow/flow-101-quest '/storage/nvme5/new_clones/Cadence/flow-101-quest' &
+git clone https://github.com/crash13override/flovatar '/storage/nvme5/new_clones/Cadence/flovatar' &
+git clone https://github.com/LearnWeb3DAO/Flow-Track '/storage/nvme5/new_clones/Cadence/Flow-Track' &
+git clone https://github.com/wombat-tech/chainmonsters-smart-contracts '/storage/nvme5/new_clones/Cadence/chainmonsters-smart-contracts' &
+git clone https://github.com/Flowtyio/lost-and-found '/storage/nvme5/new_clones/Cadence/lost-and-found' &
+git clone https://github.com/blocto/flow-transactions '/storage/nvme5/new_clones/Cadence/flow-transactions' &
+git clone https://github.com/blocto/blt-contracts '/storage/nvme5/new_clones/Cadence/blt-contracts' &
+git clone https://github.com/FlowFans/web3jam-2022-summer '/storage/nvme5/new_clones/Cadence/web3jam-2022-summer' &
+git clone https://github.com/dapperlabs/dapper-supported-transactions '/storage/nvme5/new_clones/Cadence/dapper-supported-transactions' &
+git clone https://github.com/dapperlabs/nfl-smart-contracts '/storage/nvme5/new_clones/Cadence/nfl-smart-contracts' &
+git clone https://github.com/the-cold-dark/ColdCore '/storage/nvme5/new_clones/Cadence/ColdCore' &
+git clone https://github.com/green-goo-dao/flow-utils '/storage/nvme5/new_clones/Cadence/flow-utils' &
+git clone https://github.com/onflow/sc-eng-gaming '/storage/nvme5/new_clones/Cadence/sc-eng-gaming' &
+git clone https://github.com/blocto/bloctobay-contracts '/storage/nvme5/new_clones/Cadence/bloctobay-contracts' &
+git clone https://github.com/emerald-dao/project-toucans-v2 '/storage/nvme5/new_clones/Cadence/project-toucans-v2' &
+git clone https://github.com/Metaverse-Football-League/mfl-smart-contracts '/storage/nvme5/new_clones/Cadence/mfl-smart-contracts' &
+git clone https://github.com/onflow/sdks '/storage/nvme5/new_clones/Cadence/sdks' &
+git clone https://github.com/Build-Squad/asset-handover '/storage/nvme5/new_clones/Cadence/asset-handover' &
+git clone https://github.com/Niftory/niftory-flow '/storage/nvme5/new_clones/Cadence/niftory-flow' &
+git clone https://github.com/flow-hydraulics/onchain-multisig '/storage/nvme5/new_clones/Cadence/onchain-multisig' &
+git clone https://github.com/flow-hydraulics/fcl-wallet-adapter '/storage/nvme5/new_clones/Cadence/fcl-wallet-adapter' &
+git clone https://github.com/bluesign/flow-mainnet-contracts '/storage/nvme5/new_clones/Cadence/flow-mainnet-contracts' &
+git clone https://github.com/DapperCollectives/VESSEL '/storage/nvme5/new_clones/Cadence/VESSEL' &
+git clone https://github.com/emerald-dao/1-non-fungible-token '/storage/nvme5/new_clones/Cadence/1-non-fungible-token' &

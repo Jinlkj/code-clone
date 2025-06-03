@@ -1,0 +1,30 @@
+#!/bin/bash
+
+git clone https://github.com/ANHIG/IMGTHLA '/storage/nvme5/new_clones/Parrot/IMGTHLA' &
+git clone https://github.com/parrot/cardinal '/storage/nvme5/new_clones/Parrot/cardinal' &
+git clone https://github.com/fperrad/lua '/storage/nvme5/new_clones/Parrot/lua' &
+git clone https://github.com/perl6/nqp-rx '/storage/nvme5/new_clones/Parrot/nqp-rx' &
+git clone https://github.com/NotFound/winxed '/storage/nvme5/new_clones/Parrot/winxed' &
+git clone https://github.com/WansonChoi/HATK '/storage/nvme5/new_clones/Parrot/HATK' &
+git clone https://github.com/bschmalhofer/pipp '/storage/nvme5/new_clones/Parrot/pipp' &
+git clone https://github.com/parrot/lisp '/storage/nvme5/new_clones/Parrot/lisp' &
+git clone https://github.com/partcl/partcl '/storage/nvme5/new_clones/Parrot/partcl' &
+git clone https://github.com/antigenomics/tcren-ms '/storage/nvme5/new_clones/Parrot/tcren-ms' &
+git clone https://github.com/parrot/forth '/storage/nvme5/new_clones/Parrot/forth' &
+git clone https://github.com/choogiesaur/pso-resilience '/storage/nvme5/new_clones/Parrot/pso-resilience' &
+git clone https://github.com/leto/kea '/storage/nvme5/new_clones/Parrot/kea' &
+git clone https://github.com/ANHIG/IPDKIR '/storage/nvme5/new_clones/Parrot/IPDKIR' &
+git clone https://github.com/stefano/primitivearc '/storage/nvme5/new_clones/Parrot/primitivearc' &
+git clone https://github.com/Timbus/fun '/storage/nvme5/new_clones/Parrot/fun' &
+git clone https://github.com/quietfanatic/gamebase '/storage/nvme5/new_clones/Parrot/gamebase' &
+git clone https://github.com/bschmalhofer/unlambda '/storage/nvme5/new_clones/Parrot/unlambda' &
+git clone https://github.com/Whiteknight/matrixy '/storage/nvme5/new_clones/Parrot/matrixy' &
+git clone https://github.com/parrot/pheme '/storage/nvme5/new_clones/Parrot/pheme' &
+git clone https://github.com/letolabs/app-parrot-create '/storage/nvme5/new_clones/Parrot/app-parrot-create' &
+git clone https://github.com/plobsing/ohm-eta-wink-kzd '/storage/nvme5/new_clones/Parrot/ohm-eta-wink-kzd' &
+git clone https://github.com/tene/gil '/storage/nvme5/new_clones/Parrot/gil' &
+git clone https://github.com/leto/nqptap '/storage/nvme5/new_clones/Parrot/nqptap' &
+git clone https://github.com/fperrad/lua-batteries '/storage/nvme5/new_clones/Parrot/lua-batteries' &
+git clone https://github.com/bschmalhofer/m4 '/storage/nvme5/new_clones/Parrot/m4' &
+git clone https://github.com/bubaflub/parrot-gmp '/storage/nvme5/new_clones/Parrot/parrot-gmp' &
+git clone https://github.com/plobsing/parrot-libjit-fb '/storage/nvme5/new_clones/Parrot/parrot-libjit-fb' &

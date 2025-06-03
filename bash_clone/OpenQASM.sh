@@ -1,0 +1,30 @@
+#!/bin/bash
+
+git clone https://github.com/Qiskit/qiskit-metapackage '/storage/nvme5/new_clones/OpenQASM/qiskit-metapackage' &
+git clone https://github.com/zxcalc/pyzx '/storage/nvme5/new_clones/OpenQASM/pyzx' &
+git clone https://github.com/softwareQinc/staq '/storage/nvme5/new_clones/OpenQASM/staq' &
+git clone https://github.com/BQSKit/bqskit '/storage/nvme5/new_clones/OpenQASM/bqskit' &
+git clone https://github.com/yardstiq/quantum-benchmarks '/storage/nvme5/new_clones/OpenQASM/quantum-benchmarks' &
+git clone https://github.com/pnnl/QASMBench '/storage/nvme5/new_clones/OpenQASM/QASMBench' &
+git clone https://github.com/quantum-compiler/quartz '/storage/nvme5/new_clones/OpenQASM/quartz' &
+git clone https://github.com/Lumorti/The-Quantum-Tunnels '/storage/nvme5/new_clones/OpenQASM/The-Quantum-Tunnels' &
+git clone https://github.com/zxcalc/quizx '/storage/nvme5/new_clones/OpenQASM/quizx' &
+git clone https://github.com/pnnl/DM-Sim '/storage/nvme5/new_clones/OpenQASM/DM-Sim' &
+git clone https://github.com/quantumlib/unitary '/storage/nvme5/new_clones/OpenQASM/unitary' &
+git clone https://github.com/uuudown/QASMBench '/storage/nvme5/new_clones/OpenQASM/QASMBench' &
+git clone https://github.com/Veri-Q/Benchmark '/storage/nvme5/new_clones/OpenQASM/Benchmark' &
+git clone https://github.com/qu-tan-um/OLSQ '/storage/nvme5/new_clones/OpenQASM/OLSQ' &
+git clone https://github.com/pnnl/NWQ-Sim '/storage/nvme5/new_clones/OpenQASM/NWQ-Sim' &
+git clone https://github.com/Qiskit/red-queen '/storage/nvme5/new_clones/OpenQASM/red-queen' &
+git clone https://github.com/qulacs/cirq-qulacs '/storage/nvme5/new_clones/OpenQASM/cirq-qulacs' &
+git clone https://github.com/pnnl/SV-Sim '/storage/nvme5/new_clones/OpenQASM/SV-Sim' &
+git clone https://github.com/fmlab-iis/AutoQ '/storage/nvme5/new_clones/OpenQASM/AutoQ' &
+git clone https://github.com/caichao/ASDP '/storage/nvme5/new_clones/OpenQASM/ASDP' &
+git clone https://github.com/CQCL/tket_benchmarking '/storage/nvme5/new_clones/OpenQASM/tket_benchmarking' &
+git clone https://github.com/alexandrupaler/qxx '/storage/nvme5/new_clones/OpenQASM/qxx' &
+git clone https://github.com/openqasm/qe-qasm '/storage/nvme5/new_clones/OpenQASM/qe-qasm' &
+git clone https://github.com/time-optimal-qmapper/TOQM '/storage/nvme5/new_clones/OpenQASM/TOQM' &
+git clone https://github.com/quantum-compiler/quartz-artifact '/storage/nvme5/new_clones/OpenQASM/quartz-artifact' &
+git clone https://github.com/qu-tan-um/QUEKO-benchmark '/storage/nvme5/new_clones/OpenQASM/QUEKO-benchmark' &
+git clone https://github.com/myQLM/myqlm-interop '/storage/nvme5/new_clones/OpenQASM/myqlm-interop' &
+git clone https://github.com/S4Plus/Q-CODAR '/storage/nvme5/new_clones/OpenQASM/Q-CODAR' &

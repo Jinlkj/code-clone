@@ -1,0 +1,13 @@
+git clone https://github.com/mikeduglas/libcurl,other,27
+git clone https://github.com/plotnick/clweb,mit,22
+git clone https://github.com/mikeduglas/cJSON,none,15
+git clone https://github.com/mbourgey/Concordia_Workshop_Biopython,none,14
+git clone https://github.com/MarkGoldberg/CwUnit,none,10
+git clone https://github.com/fushnisoft/ClarionMetroWizard,other,10
+git clone https://github.com/fushnisoft/ClarionClasses,mit,10
+git clone https://github.com/softvelocity/clariontouch,none,8
+git clone https://github.com/CarlTBarnes/LibMakerPlus,mit,7
+git clone https://github.com/CarlosGtrz/ClarionJson,none,7
+git clone https://github.com/Devuna/Devuna-IQXML,mit,7
+git clone https://github.com/fushnisoft/SublimeClarion,mit,7
+git clone https://github.com/Devuna/Devuna-KwikSourceSearch,mit,6

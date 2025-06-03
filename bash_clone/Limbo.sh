@@ -1,0 +1,33 @@
+#!/bin/bash
+
+git clone https://github.com/caerwynj/acme-sac '/storage/nvme5/new_clones/Limbo/acme-sac' &
+git clone https://github.com/mathisi-io/t24dev '/storage/nvme5/new_clones/Limbo/t24dev' &
+git clone https://github.com/henesy/limbobyexample '/storage/nvme5/new_clones/Limbo/limbobyexample' &
+git clone https://github.com/ndparker/rcssmin '/storage/nvme5/new_clones/Limbo/rcssmin' &
+git clone https://github.com/Amoiensis/Mathmatic_Modeling_CUMCM '/storage/nvme5/new_clones/Limbo/Mathmatic_Modeling_CUMCM' &
+git clone https://github.com/borb/tripos '/storage/nvme5/new_clones/Limbo/tripos' &
+git clone https://github.com/caerwynj/inferno-lab '/storage/nvme5/new_clones/Limbo/inferno-lab' &
+git clone https://github.com/8l/bcpl '/storage/nvme5/new_clones/Limbo/bcpl' &
+git clone https://github.com/fjballest/octopus '/storage/nvme5/new_clones/Limbo/octopus' &
+git clone https://github.com/ares5221/manifoldAlgorithm '/storage/nvme5/new_clones/Limbo/manifoldAlgorithm' &
+git clone https://github.com/pydicom/dicom-cleaner '/storage/nvme5/new_clones/Limbo/dicom-cleaner' &
+git clone https://github.com/bradmonk/plasticity '/storage/nvme5/new_clones/Limbo/plasticity' &
+git clone https://github.com/WZFish/QEM-MeshSimplification '/storage/nvme5/new_clones/Limbo/QEM-MeshSimplification' &
+git clone https://github.com/uzudil/benji4000 '/storage/nvme5/new_clones/Limbo/benji4000' &
+git clone https://github.com/lilinxi/ConformalGeometry '/storage/nvme5/new_clones/Limbo/ConformalGeometry' &
+git clone https://github.com/nasa/MAV '/storage/nvme5/new_clones/Limbo/MAV' &
+git clone https://github.com/powerman/inferno-re2 '/storage/nvme5/new_clones/Limbo/inferno-re2' &
+git clone https://github.com/mjl-/qwm '/storage/nvme5/new_clones/Limbo/qwm' &
+git clone https://github.com/inferno-os/inferno-1e0 '/storage/nvme5/new_clones/Limbo/inferno-1e0' &
+git clone https://github.com/raphael-group/scarlet '/storage/nvme5/new_clones/Limbo/scarlet' &
+git clone https://github.com/marc365/BCPL '/storage/nvme5/new_clones/Limbo/BCPL' &
+git clone https://github.com/killerswan/boyer-moore-search '/storage/nvme5/new_clones/Limbo/boyer-moore-search' &
+git clone https://github.com/eli-davis/Intel_80486_OS '/storage/nvme5/new_clones/Limbo/Intel_80486_OS' &
+git clone https://github.com/zcsd/LeapMotionMeshViewer '/storage/nvme5/new_clones/Limbo/LeapMotionMeshViewer' &
+git clone https://github.com/mjl-/ssh '/storage/nvme5/new_clones/Limbo/ssh' &
+git clone https://github.com/sirjofri/gridchat '/storage/nvme5/new_clones/Limbo/gridchat' &
+git clone https://github.com/frostyduck/Power-Flexibility-Project '/storage/nvme5/new_clones/Limbo/Power-Flexibility-Project' &
+git clone https://github.com/mirtchovski/inferno '/storage/nvme5/new_clones/Limbo/inferno' &
+git clone https://github.com/inferno-os/ventivac '/storage/nvme5/new_clones/Limbo/ventivac' &
+git clone https://github.com/sam-falvo/Cintpos '/storage/nvme5/new_clones/Limbo/Cintpos' &
+git clone https://github.com/lilinxi/200819_DigitalGeometryProcessing '/storage/nvme5/new_clones/Limbo/200819_DigitalGeometryProcessing' &

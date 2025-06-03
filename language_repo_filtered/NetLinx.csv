@@ -1,0 +1,11 @@
+git clone https://github.com/DavidVine/amx-util-library,mit,36
+git clone https://github.com/axoloti/axoloti-contrib,none,33
+git clone https://github.com/kimburgess/netlinx-common-libraries,mit,28
+git clone https://github.com/rverstappen/AMX,none,21
+git clone https://github.com/ciasia/jsmn,other,16
+git clone https://github.com/ciasia/http,mit,15
+git clone https://github.com/KaiDrange/Axoloti-Block,mit,15
+git clone https://github.com/sentry07/netlinx-libJSON,apache-2.0,15
+git clone https://github.com/amclain/sublime-netlinx,mit,15
+git clone https://github.com/frasermclean/AMX-IP-Socket-Manager,none,13
+git clone https://github.com/amclain/amx-lib-redis,mit,6

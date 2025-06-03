@@ -1,0 +1,36 @@
+#!/bin/bash
+
+git clone https://github.com/eclipse-archived/ceylon-sdk '/storage/nvme5/new_clones/Ceylon/ceylon-sdk' &
+git clone https://github.com/eclipse-archived/ceylon-ide-intellij '/storage/nvme5/new_clones/Ceylon/ceylon-ide-intellij' &
+git clone https://github.com/vietj/ceylon-cayla '/storage/nvme5/new_clones/Ceylon/ceylon-cayla' &
+git clone https://github.com/LisiLisenok/Chime '/storage/nvme5/new_clones/Ceylon/Chime' &
+git clone https://github.com/jvasileff/ceylon-dart '/storage/nvme5/new_clones/Ceylon/ceylon-dart' &
+git clone https://github.com/bjansen/gyokuro '/storage/nvme5/new_clones/Ceylon/gyokuro' &
+git clone https://github.com/ceylon/ceylon.ast '/storage/nvme5/new_clones/Ceylon/ceylon.ast' &
+git clone https://github.com/ceylon/ceylon-examples '/storage/nvme5/new_clones/Ceylon/ceylon-examples' &
+git clone https://github.com/ceylon/ceylon.build '/storage/nvme5/new_clones/Ceylon/ceylon.build' &
+git clone https://github.com/eclipse-archived/ceylon.formatter '/storage/nvme5/new_clones/Ceylon/ceylon.formatter' &
+git clone https://github.com/renatoathaydes/specks '/storage/nvme5/new_clones/Ceylon/specks' &
+git clone https://github.com/renatoathaydes/CeylonFX '/storage/nvme5/new_clones/Ceylon/CeylonFX' &
+git clone https://github.com/jvasileff/vscode-ceylon '/storage/nvme5/new_clones/Ceylon/vscode-ceylon' &
+git clone https://github.com/renatoathaydes/parcey '/storage/nvme5/new_clones/Ceylon/parcey' &
+git clone https://github.com/eclipse-archived/ceylon-ide-common '/storage/nvme5/new_clones/Ceylon/ceylon-ide-common' &
+git clone https://github.com/DiegoCoronel/ceylon-spring-boot '/storage/nvme5/new_clones/Ceylon/ceylon-spring-boot' &
+git clone https://github.com/DiegoCoronel/ceylon-jboss-swarm '/storage/nvme5/new_clones/Ceylon/ceylon-jboss-swarm' &
+git clone https://github.com/vietj/ceylon-promises '/storage/nvme5/new_clones/Ceylon/ceylon-promises' &
+git clone https://github.com/vietj/ceylon-vertx '/storage/nvme5/new_clones/Ceylon/ceylon-vertx' &
+git clone https://github.com/gavinking/ceylon-walkthrough '/storage/nvme5/new_clones/Ceylon/ceylon-walkthrough' &
+git clone https://github.com/gavinking/UniversalMusicPlayer '/storage/nvme5/new_clones/Ceylon/UniversalMusicPlayer' &
+git clone https://github.com/dlkw/ceylon-crypto '/storage/nvme5/new_clones/Ceylon/ceylon-crypto' &
+git clone https://github.com/ceylon/ceylon.swarm '/storage/nvme5/new_clones/Ceylon/ceylon.swarm' &
+git clone https://github.com/corbinu/ceylon-js-interop '/storage/nvme5/new_clones/Ceylon/ceylon-js-interop' &
+git clone https://github.com/davidfestal/cameleon '/storage/nvme5/new_clones/Ceylon/cameleon' &
+git clone https://github.com/drochetti/ceylon-style '/storage/nvme5/new_clones/Ceylon/ceylon-style' &
+git clone https://github.com/akberc/lahore '/storage/nvme5/new_clones/Ceylon/lahore' &
+git clone https://github.com/lucaswerkmeister/ceylon-typesystem-turing-complete '/storage/nvme5/new_clones/Ceylon/ceylon-typesystem-turing-complete' &
+git clone https://github.com/rohitmohan96/ceylon.markdown '/storage/nvme5/new_clones/Ceylon/ceylon.markdown' &
+git clone https://github.com/tombentley/alabama '/storage/nvme5/new_clones/Ceylon/alabama' &
+git clone https://github.com/ceylon/ceylon-examples-javafx '/storage/nvme5/new_clones/Ceylon/ceylon-examples-javafx' &
+git clone https://github.com/ceylon/ceylon-ide-netbeans '/storage/nvme5/new_clones/Ceylon/ceylon-ide-netbeans' &
+git clone https://github.com/jvasileff/ceylon-random '/storage/nvme5/new_clones/Ceylon/ceylon-random' &
+git clone https://github.com/renatoathaydes/ConcurrenCey '/storage/nvme5/new_clones/Ceylon/ConcurrenCey' &

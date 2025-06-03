@@ -1,0 +1,10 @@
+git clone https://github.com/owl-framework/owl,other,47
+git clone https://github.com/phalcongelist/beanspeak,other,34
+git clone https://github.com/lynx/lynx-legacy-zephir,other,30
+git clone https://github.com/Tinywan/zephir-framework,none,13
+git clone https://github.com/6dreams/stream-reader,none,12
+git clone https://github.com/lucassouzavieira/arangodb-php-driver,mit,12
+git clone https://github.com/jrbasso/cakephp-ext,none,8
+git clone https://github.com/marcqualie/hoard-utils,none,7
+git clone https://github.com/hugohiram/OrientDB-Extension,mit,7
+git clone https://github.com/nekulin/celastica,none,6

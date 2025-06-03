@@ -1,0 +1,4 @@
+git clone https://github.com/CordyJ/OpenTxl,other,22
+git clone https://github.com/code2vec-critique/generalizability,none,9
+git clone https://github.com/breadboard-bi/breadboard,apache-2.0,8
+git clone https://github.com/seer-lab/ARC,mpl-2.0,6

@@ -1,0 +1,6 @@
+git clone https://github.com/frivollier/pvsyst_tools,none,28
+git clone https://github.com/epw/consensus,apache-2.0,14
+git clone https://github.com/quattor/pan,apache-2.0,13
+git clone https://github.com/moshix/SPFPC,none,9
+git clone https://github.com/dongyawu/PangenomeEvolution,mit,8
+git clone https://github.com/quattor/template-library-grid,none,6

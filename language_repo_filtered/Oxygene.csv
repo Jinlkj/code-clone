@@ -1,0 +1,5 @@
+git clone https://github.com/nickelsworth/pascal,none,30
+git clone https://github.com/shikhalev/ppruby,none,21
+git clone https://github.com/ghquant/Delphi-OmniThreadLibrary,none,17
+git clone https://github.com/remobjects/calendar,bsd-3-clause,11
+git clone https://github.com/plafrance/POOA13,none,7

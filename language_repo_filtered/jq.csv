@@ -1,0 +1,16 @@
+git clone https://github.com/antonbabenko/terraform-cost-estimation,apache-2.0,699
+git clone https://github.com/wader/jqjq,mit,696
+git clone https://github.com/odnoletkov/advent-of-code-jq,none,214
+git clone https://github.com/wader/jq-lsp,mit,74
+git clone https://github.com/vito-c/jq.vim,none,55
+git clone https://github.com/SAP-samples/btp-service-metadata,apache-2.0,39
+git clone https://github.com/remy/advent-of-code-solved,none,20
+git clone https://github.com/thaliaarchi/wsjq,mpl-2.0,16
+git clone https://github.com/thoughtbot/cloudformation-terraform-state-backend,mit,13
+git clone https://github.com/hosuaby/jq-voronoi,mit,9
+git clone https://github.com/stoyosawa/jqDoc-public,none,8
+git clone https://github.com/nntrn/jq-recipes,none,7
+git clone https://github.com/jqnpm/jq-bigint,other,7
+git clone https://github.com/christianberg/advent,none,7
+git clone https://github.com/zogwarg/SublimeJQ,mit,6
+git clone https://github.com/pkoppstein/JESS,none,6

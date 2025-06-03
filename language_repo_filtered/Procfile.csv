@@ -1,0 +1,7 @@
+git clone https://github.com/cds-hooks/docs,apache-2.0,167
+git clone https://github.com/karyeet/heroku-lavalink,mit,43
+git clone https://github.com/heroku/devcenter-webapp-runner,none,19
+git clone https://github.com/wemake-services/kira-stale,mit,15
+git clone https://github.com/slyapustin/airflow-on-heroku,mit,12
+git clone https://github.com/Minionguyjpro/Afk-bot,none,8
+git clone https://github.com/b-ggs/dokku-glitchtip,none,7

@@ -1,0 +1,15 @@
+git clone https://github.com/spocon/spocon,mit,136
+git clone https://github.com/terrillmoore/NIST-Statistical-Test-Suite,other,116
+git clone https://github.com/OpenEuphoria/euphoria,other,99
+git clone https://github.com/bhavyagoel/BlackArch,none,97
+git clone https://github.com/petelomax/Phix,other,58
+git clone https://github.com/aptech/tspdlib,none,26
+git clone https://github.com/Elixir-Development/Phoenix-Tutorial,mit,16
+git clone https://github.com/Posnet/Vallado,none,16
+git clone https://github.com/OpenEuphoria/euphoria-mvc,mit,14
+git clone https://github.com/fiwalld/Fiwalld,none,10
+git clone https://github.com/guojuntang/gmt_randomness_test,bsd-3-clause,10
+git clone https://github.com/catbro666/Rand_Number_Assess,none,9
+git clone https://github.com/gAndy50/Euraylib,none,8
+git clone https://github.com/ZayaanZone/roc-x,mpl-2.0,8
+git clone https://github.com/phoenixding/scdiff2,mit,6

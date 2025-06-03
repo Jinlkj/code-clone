@@ -1,0 +1,6 @@
+git clone https://github.com/0xPolygonHermez/pil-stark,other,97
+git clone https://github.com/FlynnSC/zk-hunt,mit,92
+git clone https://github.com/chyanju/Picus,mit,41
+git clone https://github.com/zkFHE/circomlib-fhe,none,35
+git clone https://github.com/liyue201/gnark-circomlib,apache-2.0,15
+git clone https://github.com/adompeldorius/springrollup,none,9

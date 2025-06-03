@@ -1,0 +1,37 @@
+#!/bin/bash
+
+git clone https://github.com/chebykinn/sedmario '/storage/nvme5/new_clones/sed/sedmario' &
+git clone https://github.com/vlajos/misspell-fixer '/storage/nvme5/new_clones/sed/misspell-fixer' &
+git clone https://github.com/horazont/xmpp-echo-bot '/storage/nvme5/new_clones/sed/xmpp-echo-bot' &
+git clone https://github.com/Anvil/bash-doxygen '/storage/nvme5/new_clones/sed/bash-doxygen' &
+git clone https://github.com/eliranwong/OpenGNT '/storage/nvme5/new_clones/sed/OpenGNT' &
+git clone https://github.com/ehmicky/Notes '/storage/nvme5/new_clones/sed/Notes' &
+git clone https://github.com/mb64/sel '/storage/nvme5/new_clones/sed/sel' &
+git clone https://github.com/mehmetbercan/NSGA-II_Python_for_SWAT_model '/storage/nvme5/new_clones/sed/NSGA-II_Python_for_SWAT_model' &
+git clone https://github.com/eliranwong/LXX-Rahlfs-1935 '/storage/nvme5/new_clones/sed/LXX-Rahlfs-1935' &
+git clone https://github.com/devgateway/dkr2sh '/storage/nvme5/new_clones/sed/dkr2sh' &
+git clone https://github.com/hatem-mahmoud/scripts '/storage/nvme5/new_clones/sed/scripts' &
+git clone https://github.com/GillesArcas/PythonSed '/storage/nvme5/new_clones/sed/PythonSed' &
+git clone https://github.com/moltenib/md-to-html '/storage/nvme5/new_clones/sed/md-to-html' &
+git clone https://github.com/Tingliangstu/pySED '/storage/nvme5/new_clones/sed/pySED' &
+git clone https://github.com/cpp-frug/materials '/storage/nvme5/new_clones/sed/materials' &
+git clone https://github.com/tcollett/LensPop '/storage/nvme5/new_clones/sed/LensPop' &
+git clone https://github.com/wroberts/fsed '/storage/nvme5/new_clones/sed/fsed' &
+git clone https://github.com/onurgu/ner-tagger-dynet '/storage/nvme5/new_clones/sed/ner-tagger-dynet' &
+git clone https://github.com/smc/corpus '/storage/nvme5/new_clones/sed/corpus' &
+git clone https://github.com/LSSTDESC/rail_attic '/storage/nvme5/new_clones/sed/rail_attic' &
+git clone https://github.com/lpapp/indian-music-notation '/storage/nvme5/new_clones/sed/indian-music-notation' &
+git clone https://github.com/sapradhan/nep-ttf2utf '/storage/nvme5/new_clones/sed/nep-ttf2utf' &
+git clone https://github.com/BruXy/gnulinux.guru '/storage/nvme5/new_clones/sed/gnulinux.guru' &
+git clone https://github.com/laserbat/unix-voodoo '/storage/nvme5/new_clones/sed/unix-voodoo' &
+git clone https://github.com/nelsopet/lecospec '/storage/nvme5/new_clones/sed/lecospec' &
+git clone https://github.com/jmvanel/rdf-i18n '/storage/nvme5/new_clones/sed/rdf-i18n' &
+git clone https://github.com/Circiter/life-in-sed '/storage/nvme5/new_clones/sed/life-in-sed' &
+git clone https://github.com/olsner/smilebot '/storage/nvme5/new_clones/sed/smilebot' &
+git clone https://github.com/vChewing/libvchewing-data '/storage/nvme5/new_clones/sed/libvchewing-data' &
+git clone https://github.com/faithanalog/sedfuck '/storage/nvme5/new_clones/sed/sedfuck' &
+git clone https://github.com/laserbat/bach.sed '/storage/nvme5/new_clones/sed/bach.sed' &
+git clone https://github.com/Colin-Cai-jin/sed-weiqi '/storage/nvme5/new_clones/sed/sed-weiqi' &
+git clone https://github.com/HydroRS/ParallelSWAT '/storage/nvme5/new_clones/sed/ParallelSWAT' &
+git clone https://github.com/laserbat/sedbf '/storage/nvme5/new_clones/sed/sedbf' &
+git clone https://github.com/laserbat/mandelbrot.sed '/storage/nvme5/new_clones/sed/mandelbrot.sed' &

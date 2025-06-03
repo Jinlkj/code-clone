@@ -1,0 +1,31 @@
+#!/bin/bash
+
+git clone https://github.com/hacl-star/hacl-star '/storage/nvme5/new_clones/F*/hacl-star' &
+git clone https://github.com/project-everest/everparse '/storage/nvme5/new_clones/F*/everparse' &
+git clone https://github.com/project-everest/mitls-fstar '/storage/nvme5/new_clones/F*/mitls-fstar' &
+git clone https://github.com/cryspen/bertie '/storage/nvme5/new_clones/F*/bertie' &
+git clone https://github.com/felixstorm/Creality_Ender_3_ESP32_Board '/storage/nvme5/new_clones/F*/Creality_Ender_3_ESP32_Board' &
+git clone https://github.com/denismerigoux/rox-star '/storage/nvme5/new_clones/F*/rox-star' &
+git clone https://github.com/msr-quarc/ReVerC '/storage/nvme5/new_clones/F*/ReVerC' &
+git clone https://github.com/s-falke/kittel-koat '/storage/nvme5/new_clones/F*/kittel-koat' &
+git clone https://github.com/project-everest/QUIC-FStar '/storage/nvme5/new_clones/F*/QUIC-FStar' &
+git clone https://github.com/IEAWindSystems/IEA-3.4-130-RWT '/storage/nvme5/new_clones/F*/IEA-3.4-130-RWT' &
+git clone https://github.com/verified-HRoT/dice-star '/storage/nvme5/new_clones/F*/dice-star' &
+git clone https://github.com/wenkokke/starchild '/storage/nvme5/new_clones/F*/starchild' &
+git clone https://github.com/konnov/fault-tolerant-benchmarks '/storage/nvme5/new_clones/F*/fault-tolerant-benchmarks' &
+git clone https://github.com/project-everest/everquic-crypto '/storage/nvme5/new_clones/F*/everquic-crypto' &
+git clone https://github.com/CatalaLang/dates-calc '/storage/nvme5/new_clones/F*/dates-calc' &
+git clone https://github.com/catalin-hritcu/fstar-course '/storage/nvme5/new_clones/F*/fstar-course' &
+git clone https://github.com/plemey/SARSCoV2origins '/storage/nvme5/new_clones/F*/SARSCoV2origins' &
+git clone https://github.com/W95Psp/verified-abstract-interpreter '/storage/nvme5/new_clones/F*/verified-abstract-interpreter' &
+git clone https://github.com/kant2002/fstarsample '/storage/nvme5/new_clones/F*/fstarsample' &
+git clone https://github.com/project-windio/wt-digital-twin '/storage/nvme5/new_clones/F*/wt-digital-twin' &
+git clone https://github.com/amiller/fstar374 '/storage/nvme5/new_clones/F*/fstar374' &
+git clone https://github.com/hacl-star/merkle-tree '/storage/nvme5/new_clones/F*/merkle-tree' &
+git clone https://github.com/kant2002/FStarMSBuildSdk '/storage/nvme5/new_clones/F*/FStarMSBuildSdk' &
+git clone https://github.com/prismlab/peepul '/storage/nvme5/new_clones/F*/peepul' &
+git clone https://github.com/d-plaindoux/tyasta '/storage/nvme5/new_clones/F*/tyasta' &
+git clone https://github.com/hacklex/CuteCAS '/storage/nvme5/new_clones/F*/CuteCAS' &
+git clone https://github.com/ckelley2/NRT '/storage/nvme5/new_clones/F*/NRT' &
+git clone https://github.com/andricicezar/fstar-io '/storage/nvme5/new_clones/F*/fstar-io' &
+git clone https://github.com/microsoft/qsharp-verifier '/storage/nvme5/new_clones/F*/qsharp-verifier' &

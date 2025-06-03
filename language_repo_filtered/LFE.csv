@@ -1,0 +1,14 @@
+git clone https://github.com/ut-proj/undertone,apache-2.0,59
+git clone https://github.com/cnbbooks/lfe-casting-spels,none,38
+git clone https://github.com/lfex/ltest,other,37
+git clone https://github.com/exercism/lfe,mit,25
+git clone https://github.com/mdbergmann/lfe-ls,apache-2.0,25
+git clone https://github.com/lfe-mug/lmug,none,21
+git clone https://github.com/lfex/lutil,other,18
+git clone https://github.com/lfeutre/nx,apache-2.0,12
+git clone https://github.com/lfex/ljson,other,10
+git clone https://github.com/lfex/poise,apache-2.0,8
+git clone https://github.com/lfe-http/lanes,other,7
+git clone https://github.com/lfex/complex,other,7
+git clone https://github.com/lfe-http/barista,apache-2.0,6
+git clone https://github.com/arpunk/telex,mit,6

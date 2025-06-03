@@ -1,0 +1,7 @@
+git clone https://github.com/stevehoover/LF-Building-a-RISC-V-CPU-Core,unlicense,360
+git clone https://github.com/stevehoover/warp-v,bsd-3-clause,231
+git clone https://github.com/stevehoover/RISC-V_MYTH_Workshop,unlicense,79
+git clone https://github.com/os-fpga/GettingStartedWithFPGAs,none,28
+git clone https://github.com/stevehoover/makerchip_examples,bsd-3-clause,17
+git clone https://github.com/TL-X-org/tlv_flow_lib,bsd-3-clause,9
+git clone https://github.com/vineetjain07/DNN_TL-V,none,8

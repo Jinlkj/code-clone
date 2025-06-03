@@ -1,0 +1,11 @@
+git clone https://github.com/python/peps,none,4515
+git clone https://github.com/godotengine/godot-docs,other,4104
+git clone https://github.com/odoo/documentation,cc-by-sa-4.0,804
+git clone https://github.com/flatpak/flatpak-docs,other,80
+git clone https://github.com/hobyst/flmidi-101,cc-by-4.0,38
+git clone https://github.com/mgeier/homepage,cc0-1.0,37
+git clone https://github.com/SilverRainZ/silverrainz.github.io,cc-by-sa-4.0,28
+git clone https://github.com/nazunalika/linux-guide-and-hints,mit,24
+git clone https://github.com/jwilk/security-research,none,11
+git clone https://github.com/TodokanaiTL/wa2-wine,unlicense,10
+git clone https://github.com/aidswidjaja/osu-mac,other,6

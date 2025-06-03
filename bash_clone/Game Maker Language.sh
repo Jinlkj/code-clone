@@ -1,0 +1,37 @@
+#!/bin/bash
+
+git clone https://github.com/ManojKumarPatnaik/Major-project-list '/storage/nvme5/new_clones/Game Maker Language/Major-project-list' &
+git clone https://github.com/trikita/slide-html '/storage/nvme5/new_clones/Game Maker Language/slide-html' &
+git clone https://github.com/saasbook/ruql '/storage/nvme5/new_clones/Game Maker Language/ruql' &
+git clone https://github.com/RPG-Maker-Translator/RPG-Maker-Translator '/storage/nvme5/new_clones/Game Maker Language/RPG-Maker-Translator' &
+git clone https://github.com/brianterry/unicorn-maker '/storage/nvme5/new_clones/Game Maker Language/unicorn-maker' &
+git clone https://github.com/Aryia-Behroziuan/References '/storage/nvme5/new_clones/Game Maker Language/References' &
+git clone https://github.com/alexa/apl-core-library '/storage/nvme5/new_clones/Game Maker Language/apl-core-library' &
+git clone https://github.com/svermeulen/nvim-teal-maker '/storage/nvme5/new_clones/Game Maker Language/nvim-teal-maker' &
+git clone https://github.com/uduse/Sublime-GameMaker-Studio-Language-Bundle '/storage/nvme5/new_clones/Game Maker Language/Sublime-GameMaker-Studio-Language-Bundle' &
+git clone https://github.com/Radfordhound/Gamemaker-Sharp '/storage/nvme5/new_clones/Game Maker Language/Gamemaker-Sharp' &
+git clone https://github.com/Emperor2000/gms-sample-library '/storage/nvme5/new_clones/Game Maker Language/gms-sample-library' &
+git clone https://github.com/Codoner/calendar-maker '/storage/nvme5/new_clones/Game Maker Language/calendar-maker' &
+git clone https://github.com/PETRUS1980/ayaka-v2 '/storage/nvme5/new_clones/Game Maker Language/ayaka-v2' &
+git clone https://github.com/panedrone/sqldalmaker '/storage/nvme5/new_clones/Game Maker Language/sqldalmaker' &
+git clone https://github.com/henryfriedlander/Crossword-Puzzle-Maker '/storage/nvme5/new_clones/Game Maker Language/Crossword-Puzzle-Maker' &
+git clone https://github.com/SceneMaker/VisualSceneMaker '/storage/nvme5/new_clones/Game Maker Language/VisualSceneMaker' &
+git clone https://github.com/Aryia-Behroziuan/Other-sources '/storage/nvme5/new_clones/Game Maker Language/Other-sources' &
+git clone https://github.com/afragen/language-pack-maker '/storage/nvme5/new_clones/Game Maker Language/language-pack-maker' &
+git clone https://github.com/horsman/gmlx '/storage/nvme5/new_clones/Game Maker Language/gmlx' &
+git clone https://github.com/realnimish/polkadot-amm '/storage/nvme5/new_clones/Game Maker Language/polkadot-amm' &
+git clone https://github.com/jscomplete/graphql-makers '/storage/nvme5/new_clones/Game Maker Language/graphql-makers' &
+git clone https://github.com/hokse/Account-maker-instagram '/storage/nvme5/new_clones/Game Maker Language/Account-maker-instagram' &
+git clone https://github.com/slabgorb/fantasy-language-maker '/storage/nvme5/new_clones/Game Maker Language/fantasy-language-maker' &
+git clone https://github.com/Yuliosity/gmcheck '/storage/nvme5/new_clones/Game Maker Language/gmcheck' &
+git clone https://github.com/fredmcgroarty/SocialLanguageLearning '/storage/nvme5/new_clones/Game Maker Language/SocialLanguageLearning' &
+git clone https://github.com/achabdo/Secret-Mario-Engine '/storage/nvme5/new_clones/Game Maker Language/Secret-Mario-Engine' &
+git clone https://github.com/sireqpetr/aaaa '/storage/nvme5/new_clones/Game Maker Language/aaaa' &
+git clone https://github.com/bobbylight/TokenMakerMaker '/storage/nvme5/new_clones/Game Maker Language/TokenMakerMaker' &
+git clone https://github.com/DataJuggler/TransparencyMaker '/storage/nvme5/new_clones/Game Maker Language/TransparencyMaker' &
+git clone https://github.com/cassova/Faker-Maker '/storage/nvme5/new_clones/Game Maker Language/Faker-Maker' &
+git clone https://github.com/Serena1432/DuckieMultipleLanguage '/storage/nvme5/new_clones/Game Maker Language/DuckieMultipleLanguage' &
+git clone https://github.com/aiya000/hs-brainhack '/storage/nvme5/new_clones/Game Maker Language/hs-brainhack' &
+git clone https://github.com/echamudi/japanese-db '/storage/nvme5/new_clones/Game Maker Language/japanese-db' &
+git clone https://github.com/britsja/shooter_game '/storage/nvme5/new_clones/Game Maker Language/shooter_game' &
+git clone https://github.com/mysterypaint/ProjectFlowerQueen '/storage/nvme5/new_clones/Game Maker Language/ProjectFlowerQueen' &

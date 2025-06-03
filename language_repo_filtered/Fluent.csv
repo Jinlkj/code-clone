@@ -1,0 +1,13 @@
+git clone https://github.com/mozilla/blurts-server,mpl-2.0,763
+git clone https://github.com/SlimeVR/SlimeVR-Server,apache-2.0,713
+git clone https://github.com/stephanrauh/ngx-extended-pdf-viewer,apache-2.0,504
+git clone https://github.com/rust-lang/www.rust-lang.org,apache-2.0,372
+git clone https://github.com/Coggle/coggle-translations,other,55
+git clone https://github.com/mozilla-japan/gecko-l10n,none,53
+git clone https://github.com/space-wizards/SS14.Launcher,mit,38
+git clone https://github.com/django-ftl/fluent-compiler,other,23
+git clone https://github.com/mozilla/fxa-content-server-l10n,mpl-2.0,23
+git clone https://github.com/ankitects/anki-core-i18n,none,18
+git clone https://github.com/mozilla-l10n/www-l10n,mpl-2.0,9
+git clone https://github.com/Floorp-Projects/l10n-central,mpl-2.0,7
+git clone https://github.com/mozilla-l10n/fx-private-relay-l10n,mpl-2.0,7

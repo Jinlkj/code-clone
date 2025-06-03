@@ -1,0 +1,33 @@
+#!/bin/bash
+
+git clone https://github.com/githwxi/ATS-Postiats '/storage/nvme5/new_clones/ATS/ATS-Postiats' &
+git clone https://github.com/vmchale/polyglot '/storage/nvme5/new_clones/ATS/polyglot' &
+git clone https://github.com/ats-lang/ATS-CodeBook '/storage/nvme5/new_clones/ATS/ATS-CodeBook' &
+git clone https://github.com/deech/ATS-Strange-Loop-Talk '/storage/nvme5/new_clones/ATS/ATS-Strange-Loop-Talk' &
+git clone https://github.com/gallettilance/magnificATS '/storage/nvme5/new_clones/ATS/magnificATS' &
+git clone https://github.com/sparverius/ats-acc '/storage/nvme5/new_clones/ATS/ats-acc' &
+git clone https://github.com/chrisdone-archive/ats-examples '/storage/nvme5/new_clones/ATS/ats-examples' &
+git clone https://github.com/vmchale/hs-ats '/storage/nvme5/new_clones/ATS/hs-ats' &
+git clone https://github.com/xanadu-lang/xanadu '/storage/nvme5/new_clones/ATS/xanadu' &
+git clone https://github.com/gallettilance/ATS-blockchain '/storage/nvme5/new_clones/ATS/ATS-blockchain' &
+git clone https://github.com/deech/ATSPresentation '/storage/nvme5/new_clones/ATS/ATSPresentation' &
+git clone https://github.com/xran-deex/ats-http '/storage/nvme5/new_clones/ATS/ats-http' &
+git clone https://github.com/deech/treap-ats '/storage/nvme5/new_clones/ATS/treap-ats' &
+git clone https://github.com/vmchale/edit-distance '/storage/nvme5/new_clones/ATS/edit-distance' &
+git clone https://github.com/ats-lang/ATS-Category '/storage/nvme5/new_clones/ATS/ATS-Category' &
+git clone https://github.com/xanadu-lang/xinterp '/storage/nvme5/new_clones/ATS/xinterp' &
+git clone https://github.com/githwxi/ATS-Postiats-test '/storage/nvme5/new_clones/ATS/ATS-Postiats-test' &
+git clone https://github.com/steinwaywhw/ats-parcc '/storage/nvme5/new_clones/ATS/ats-parcc' &
+git clone https://github.com/bakpakin/ats-lua '/storage/nvme5/new_clones/ATS/ats-lua' &
+git clone https://github.com/vmchale/recursion '/storage/nvme5/new_clones/ATS/recursion' &
+git clone https://github.com/vmchale/ats-stats '/storage/nvme5/new_clones/ATS/ats-stats' &
+git clone https://github.com/mephistopheles-8/atshtml '/storage/nvme5/new_clones/ATS/atshtml' &
+git clone https://github.com/vmchale/ats-concurrency '/storage/nvme5/new_clones/ATS/ats-concurrency' &
+git clone https://github.com/ashalkhakov/atscntrb-as-ats3d '/storage/nvme5/new_clones/ATS/atscntrb-as-ats3d' &
+git clone https://github.com/d4v3y5c0n3s/Goldelish-Engine '/storage/nvme5/new_clones/ATS/Goldelish-Engine' &
+git clone https://github.com/vmchale/monads '/storage/nvme5/new_clones/ATS/monads' &
+git clone https://github.com/ashalkhakov/ATS-playground '/storage/nvme5/new_clones/ATS/ATS-playground' &
+git clone https://github.com/August-Alm/ATS-Experiments '/storage/nvme5/new_clones/ATS/ATS-Experiments' &
+git clone https://github.com/ashalkhakov/colorado '/storage/nvme5/new_clones/ATS/colorado' &
+git clone https://github.com/deech/FPBerlinATSTalk '/storage/nvme5/new_clones/ATS/FPBerlinATSTalk' &
+git clone https://github.com/shlevy/verified-left-pad '/storage/nvme5/new_clones/ATS/verified-left-pad' &

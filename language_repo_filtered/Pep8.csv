@@ -1,0 +1,13 @@
+git clone https://github.com/wu-lab-uva/AMPHORA2,none,33
+git clone https://github.com/B10KGenomes/annotation,none,14
+git clone https://github.com/NBISweden/TransposonPSI,artistic-2.0,13
+git clone https://github.com/mrmckain/FASTKs,none,12
+git clone https://github.com/lbajolet/PEP8-examples,apache-2.0,12
+git clone https://github.com/SysBioChalmers/Yeast-Species-GEMs,mit,8
+git clone https://github.com/LQHHHHH/paml-yn00-run-pipeline,none,8
+git clone https://github.com/unipept/unipept-desktop,mit,8
+git clone https://github.com/baileyp1/PhylogenomicsPipelines,apache-2.0,7
+git clone https://github.com/sr320/course-fish546-2018,none,7
+git clone https://github.com/SVAI/bearlyunderstanding,mit,7
+git clone https://github.com/sr320/course-fish546-2016,none,6
+git clone https://github.com/LisaVdB/PF-NET,none,6

@@ -1,0 +1,8 @@
+git clone https://github.com/Alhadis/language-viml,mit,22
+git clone https://github.com/Alhadis/language-grammars,isc,22
+git clone https://github.com/Alhadis/language-emacs-lisp,isc,14
+git clone https://github.com/Alhadis/language-etc,isc,13
+git clone https://github.com/Alhadis/language-webassembly,isc,12
+git clone https://github.com/Alhadis/language-fontforge,isc,10
+git clone https://github.com/Alhadis/language-apl,isc,7
+git clone https://github.com/Alhadis/language-regexp,isc,6
