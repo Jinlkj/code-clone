@@ -1,0 +1,7 @@
+git clone https://github.com/kkzzhizhou/scoop-apps,none,455
+git clone https://github.com/loopholelabs/frpc-go,apache-2.0,451
+git clone https://github.com/Mephi00/v-rising-wine-docker-image,mit,52
+git clone https://github.com/hashgraph/hedera-protobufs-java,apache-2.0,37
+git clone https://github.com/naderi/scoop-bucket,unlicense,17
+git clone https://github.com/SayCV/scoop-cvp,none,9
+git clone https://github.com/syumai/syum.ai,mit,6

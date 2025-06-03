@@ -1,0 +1,11 @@
+git clone https://github.com/picolisp/picolisp,other,207
+git clone https://github.com/taij33n/picolisp,other,39
+git clone https://github.com/jsk-ros-pkg/jsk_demos,none,25
+git clone https://github.com/aw/picolisp-unit,mit,22
+git clone https://github.com/aw/picolisp-nanomsg,mit,20
+git clone https://github.com/aw/picolisp-https,mit,14
+git clone https://github.com/8l/pilos,other,12
+git clone https://github.com/pahihu/picoLisp,other,8
+git clone https://github.com/gleetbone/picolisp-fp,mit,7
+git clone https://github.com/erdg/insanity,none,7
+git clone https://github.com/alexispurslane/VOORM,mit,7

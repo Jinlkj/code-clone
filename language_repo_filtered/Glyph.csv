@@ -1,0 +1,9 @@
+git clone https://github.com/pointwise/VSP2CFD,other,27
+git clone https://github.com/pointwise/AirfoilMesh,other,25
+git clone https://github.com/pointwise/AirfoilGenerator,other,24
+git clone https://github.com/pointwise/AircraftMesher,other,22
+git clone https://github.com/pointwise/CreateFFD,other,17
+git clone https://github.com/pointwise/GeomToMesh,other,10
+git clone https://github.com/pointwise/GlyphUtilityLibrary,other,9
+git clone https://github.com/pointwise/CreateOH,other,8
+git clone https://github.com/pointwise/TriQuad,other,6

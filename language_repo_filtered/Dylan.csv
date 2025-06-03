@@ -1,0 +1,15 @@
+git clone https://github.com/dylan-lang/opendylan,other,463
+git clone https://github.com/dylan-hackers/network-night-vision,other,25
+git clone https://github.com/dylan-lang/http,mit,22
+git clone https://github.com/dylan-hackers/mindy,other,21
+git clone https://github.com/dylan-lang/binary-data,other,13
+git clone https://github.com/dylan-foundry/tracing,mit,10
+git clone https://github.com/dylan-hackers/gwydion,none,9
+git clone https://github.com/dylan-lang/lsp-dylan,mit,8
+git clone https://github.com/dylan-lang/command-interface,other,8
+git clone https://github.com/tca/miniKanren-Dylan,mit,8
+git clone https://github.com/dylan-lang/wiki,mit,7
+git clone https://github.com/dylan-lang/melange,other,7
+git clone https://github.com/dylan-lang/peg-parser,none,7
+git clone https://github.com/AndrewGlynn/orlok,mit,6
+git clone https://github.com/dylan-foundry/objc-dylan,mit,6

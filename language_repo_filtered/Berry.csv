@@ -1,0 +1,13 @@
+git clone https://github.com/blakadder/nspanel,cc0-1.0,135
+git clone https://github.com/LydByDissing/stroem,cc-by-sa-4.0,106
+git clone https://github.com/peepshow-21/ns-flash,none,36
+git clone https://github.com/msx80/FakeA41,mit,17
+git clone https://github.com/andrew01144/Tasmota-SomfyRTS,none,16
+git clone https://github.com/tasmota/Berry_playground,mit,10
+git clone https://github.com/Hypfer/WiFiFanCon,apache-2.0,9
+git clone https://github.com/RPJacobs/CB19-GATE-CONTROL-SYSTEM,none,7
+git clone https://github.com/Staars/berry-examples,none,7
+git clone https://github.com/Lu-Fi/tasmota-seplos-driver,none,6
+git clone https://github.com/ZeusWPI/ansible-config,mit,6
+git clone https://github.com/iotdevicesdev/ggreg20-v3-tasmota-esp32-driver,apache-2.0,6
+git clone https://github.com/frickelzeugs/nspanel-frickelui,none,6

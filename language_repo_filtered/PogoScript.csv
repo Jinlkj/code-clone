@@ -1,0 +1,7 @@
+git clone https://github.com/featurist/css-to-xpath,bsd-2-clause,44
+git clone https://github.com/issyl0/pan,none,37
+git clone https://github.com/featurist/xpath-builder,none,26
+git clone https://github.com/featurist/dslify,bsd-2-clause,10
+git clone https://github.com/featurist/snowdock,none,10
+git clone https://github.com/featurist/spawn-cmd,none,8
+git clone https://github.com/featurist/fs-tree,bsd-2-clause,6

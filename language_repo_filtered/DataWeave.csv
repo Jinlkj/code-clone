@@ -1,0 +1,15 @@
+git clone https://github.com/mulesoft-catalyst/metrics-toolkit,unlicense,84
+git clone https://github.com/alexandramartinez/dataweave-scripts,none,40
+git clone https://github.com/mulesoft-catalyst/error-handler-plugin,unlicense,36
+git clone https://github.com/PacktPublishing/MuleSoft-for-Salesforce-Developers,mit,22
+git clone https://github.com/manikmagar/mule4-examples,none,20
+git clone https://github.com/ThomasDavid0/Placebo_F3A,none,19
+git clone https://github.com/mulesoft/data-weave-tutorial,mit,13
+git clone https://github.com/shyamrajprasad/dataweave-fun,none,12
+git clone https://github.com/arch-jn/github-actions-mule-cicd-demo,mit,10
+git clone https://github.com/mulesoft-labs/data-weave-sample-module,none,10
+git clone https://github.com/MinhasKamal/BrailleToTextTranslator,none,9
+git clone https://github.com/mulesoft-labs/data-weave-custom-data-format,none,8
+git clone https://github.com/mulesoft/docs-dataweave,bsd-3-clause,7
+git clone https://github.com/mulesoft-labs/smart-connectors-integration-tests,none,7
+git clone https://github.com/hybo-ilidar/hybohat,none,6

@@ -1,0 +1,7 @@
+git clone https://github.com/influxdata/flux,mit,776
+git clone https://github.com/metrico/fluXpipe,mit,63
+git clone https://github.com/madhex/soundcloud-fb2k-waveform-seekbar,none,27
+git clone https://github.com/vvvv/Tooools,none,9
+git clone https://github.com/sebastian-nagel/warc-crawler,none,8
+git clone https://github.com/scalptrader/InfluxDBOHLC,none,7
+git clone https://github.com/ccremer/charts,mit,6

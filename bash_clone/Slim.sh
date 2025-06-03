@@ -1,0 +1,30 @@
+#!/bin/bash
+
+git clone https://github.com/infinum/rails-handbook '/storage/nvme5/new_clones/Slim/rails-handbook' &
+git clone https://github.com/AdoptOpenJDK/openjdk-docker '/storage/nvme5/new_clones/Slim/openjdk-docker' &
+git clone https://github.com/infinum/frontend-handbook '/storage/nvme5/new_clones/Slim/frontend-handbook' &
+git clone https://github.com/cruz/iic2333-course '/storage/nvme5/new_clones/Slim/iic2333-course' &
+git clone https://github.com/CocoaPods/cocoapods.org '/storage/nvme5/new_clones/Slim/cocoapods.org' &
+git clone https://github.com/kevinwuhoo/ui-styleguides '/storage/nvme5/new_clones/Slim/ui-styleguides' &
+git clone https://github.com/asciidoctor/asciidoctor-bespoke '/storage/nvme5/new_clones/Slim/asciidoctor-bespoke' &
+git clone https://github.com/maylogger/4am.tw.source '/storage/nvme5/new_clones/Slim/4am.tw.source' &
+git clone https://github.com/emojitracker/emojitrack-web '/storage/nvme5/new_clones/Slim/emojitrack-web' &
+git clone https://github.com/infinum/wordpress-handbook '/storage/nvme5/new_clones/Slim/wordpress-handbook' &
+git clone https://github.com/henrik/henrik.nyh.se '/storage/nvme5/new_clones/Slim/henrik.nyh.se' &
+git clone https://github.com/sonatype/docker-nexus-iq-server '/storage/nvme5/new_clones/Slim/docker-nexus-iq-server' &
+git clone https://github.com/ntt-developers/ntt-tech-conference '/storage/nvme5/new_clones/Slim/ntt-tech-conference' &
+git clone https://github.com/cdi-spec/cdi-spec.org '/storage/nvme5/new_clones/Slim/cdi-spec.org' &
+git clone https://github.com/infinum/qa-handbook '/storage/nvme5/new_clones/Slim/qa-handbook' &
+git clone https://github.com/infinum/android-handbook '/storage/nvme5/new_clones/Slim/android-handbook' &
+git clone https://github.com/fmi/rust-lectures '/storage/nvme5/new_clones/Slim/rust-lectures' &
+git clone https://github.com/CxTyler/SupplyChainSecurity '/storage/nvme5/new_clones/Slim/SupplyChainSecurity' &
+git clone https://github.com/wojtha/ruby2json '/storage/nvme5/new_clones/Slim/ruby2json' &
+git clone https://github.com/macuk/polish_invoicer '/storage/nvme5/new_clones/Slim/polish_invoicer' &
+git clone https://github.com/dockette/debian '/storage/nvme5/new_clones/Slim/debian' &
+git clone https://github.com/henrik/hond.ae '/storage/nvme5/new_clones/Slim/hond.ae' &
+git clone https://github.com/DFE-Digital/govuk-markdown-prototype-kit '/storage/nvme5/new_clones/Slim/govuk-markdown-prototype-kit' &
+git clone https://github.com/taise/Spectrometer '/storage/nvme5/new_clones/Slim/Spectrometer' &
+git clone https://github.com/sthlmrb/stockholmruby.com '/storage/nvme5/new_clones/Slim/stockholmruby.com' &
+git clone https://github.com/HiredScore/kill_it '/storage/nvme5/new_clones/Slim/kill_it' &
+git clone https://github.com/allanwhite/middleman-tailwind '/storage/nvme5/new_clones/Slim/middleman-tailwind' &
+git clone https://github.com/infinum/ios-handbook '/storage/nvme5/new_clones/Slim/ios-handbook' &

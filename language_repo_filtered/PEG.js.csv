@@ -1,0 +1,14 @@
+git clone https://github.com/taozhi8833998/node-sql-parser,apache-2.0,845
+git clone https://github.com/anvaka/dotparser,mit,75
+git clone https://github.com/redotjs/redot,mit,72
+git clone https://github.com/lojban/ilmentufa,other,51
+git clone https://github.com/rottytooth/Olympus,none,35
+git clone https://github.com/spring-attic/monadic,other,27
+git clone https://github.com/disjukr/text2vdom,none,23
+git clone https://github.com/siefkenj/prettier-plugin-pegjs,mit,14
+git clone https://github.com/Anonymity94/spl2sql,mit,13
+git clone https://github.com/markw65/prettier-plugin-monkeyc,none,12
+git clone https://github.com/matthew-n/plantuml-js,mit,9
+git clone https://github.com/jdthorpe/kicad-module-parser,none,6
+git clone https://github.com/plus1tv/bibtex-bibjson,mit,6
+git clone https://github.com/fps/asciichanges,none,6

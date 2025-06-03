@@ -1,0 +1,29 @@
+#!/bin/bash
+
+git clone https://github.com/arclanguage/anarki '/storage/nvme5/new_clones/Arc/anarki' &
+git clone https://github.com/wting/hackernews '/storage/nvme5/new_clones/Arc/hackernews' &
+git clone https://github.com/jotego/jtbin '/storage/nvme5/new_clones/Arc/jtbin' &
+git clone https://github.com/bixo/bixo '/storage/nvme5/new_clones/Arc/bixo' &
+git clone https://github.com/conanite/rainbow '/storage/nvme5/new_clones/Arc/rainbow' &
+git clone https://github.com/laarc/laarc '/storage/nvme5/new_clones/Arc/laarc' &
+git clone https://github.com/voml/voml '/storage/nvme5/new_clones/Arc/voml' &
+git clone https://github.com/sacado/arc2c '/storage/nvme5/new_clones/Arc/arc2c' &
+git clone https://github.com/awwx/ar '/storage/nvme5/new_clones/Arc/ar' &
+git clone https://github.com/SchniedersLab/forcefieldx '/storage/nvme5/new_clones/Arc/forcefieldx' &
+git clone https://github.com/evanrmurphy/SweetScript '/storage/nvme5/new_clones/Arc/SweetScript' &
+git clone https://github.com/akkartik/arc '/storage/nvme5/new_clones/Arc/arc' &
+git clone https://github.com/shawwn/arc '/storage/nvme5/new_clones/Arc/arc' &
+git clone https://github.com/hornbeck/arc '/storage/nvme5/new_clones/Arc/arc' &
+git clone https://github.com/esden/elco '/storage/nvme5/new_clones/Arc/elco' &
+git clone https://github.com/instr3/osu-dataset '/storage/nvme5/new_clones/Arc/osu-dataset' &
+git clone https://github.com/hasenj/sehm '/storage/nvme5/new_clones/Arc/sehm' &
+git clone https://github.com/lsauer/Data-Hub '/storage/nvme5/new_clones/Arc/Data-Hub' &
+git clone https://github.com/dnoeth/AdventureWorksDW_Teradata '/storage/nvme5/new_clones/Arc/AdventureWorksDW_Teradata' &
+git clone https://github.com/ukwa/webarchive-test-suite '/storage/nvme5/new_clones/Arc/webarchive-test-suite' &
+git clone https://github.com/WelbornGroup/ELECTRIC '/storage/nvme5/new_clones/Arc/ELECTRIC' &
+git clone https://github.com/CatDancer/arc '/storage/nvme5/new_clones/Arc/arc' &
+git clone https://github.com/openpreserve/hawarp '/storage/nvme5/new_clones/Arc/hawarp' &
+git clone https://github.com/chatnoir-eu/chatnoir-copycat '/storage/nvme5/new_clones/Arc/chatnoir-copycat' &
+git clone https://github.com/hchbaw/swank-arc '/storage/nvme5/new_clones/Arc/swank-arc' &
+git clone https://github.com/mgiken/arc-mg '/storage/nvme5/new_clones/Arc/arc-mg' &
+git clone https://github.com/RiiConnect24/WMB-Letterhead '/storage/nvme5/new_clones/Arc/WMB-Letterhead' &

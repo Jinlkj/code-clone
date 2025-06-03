@@ -1,0 +1,16 @@
+git clone https://github.com/KOTORCommunityPatches/K1_Community_Patch,none,65
+git clone https://github.com/nwn2fixes/player,none,33
+git clone https://github.com/KOTORCommunityPatches/TSL_Community_Patch,none,28
+git clone https://github.com/mtijanic/anphillia,mit,17
+git clone https://github.com/tinygiant98/nui,none,16
+git clone https://github.com/Mithreas/CoW,none,15
+git clone https://github.com/squattingmonk/nwn-core-framework,none,13
+git clone https://github.com/ALandFarAway/ALFA-Base-Resources,none,12
+git clone https://github.com/wendelscardua/nes-calculator,none,12
+git clone https://github.com/squattingmonk/sm-utils,none,10
+git clone https://github.com/Thor110/Expanded-Galaxy-Main,none,8
+git clone https://github.com/yuran1811/yuran-workspace,mit,8
+git clone https://github.com/urothis/nwn-assets,none,8
+git clone https://github.com/tinygiant98/quest,none,6
+git clone https://github.com/tinygiant98/darksun-sot,none,6
+git clone https://github.com/JCarter426/KOTOR2-Loot-Overhaul,none,6

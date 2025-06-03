@@ -1,0 +1,34 @@
+#!/bin/bash
+
+git clone https://github.com/robbiebarrat/Bach_AI '/storage/nvme5/new_clones/NewLisp/Bach_AI' &
+git clone https://github.com/xing-hu/EMSE-DeepCom '/storage/nvme5/new_clones/NewLisp/EMSE-DeepCom' &
+git clone https://github.com/ghdl/ghdl-language-server '/storage/nvme5/new_clones/NewLisp/ghdl-language-server' &
+git clone https://github.com/uclnlp/ntp '/storage/nvme5/new_clones/NewLisp/ntp' &
+git clone https://github.com/cl-test-grid/cl-test-grid '/storage/nvme5/new_clones/NewLisp/cl-test-grid' &
+git clone https://github.com/sriniiyer/nl2sql '/storage/nvme5/new_clones/NewLisp/nl2sql' &
+git clone https://github.com/xing-hu/TL-CodeSum '/storage/nvme5/new_clones/NewLisp/TL-CodeSum' &
+git clone https://github.com/bburns/Lantern '/storage/nvme5/new_clones/NewLisp/Lantern' &
+git clone https://github.com/cormullion/newlisp-projects '/storage/nvme5/new_clones/NewLisp/newlisp-projects' &
+git clone https://github.com/androlo/EthereumContracts '/storage/nvme5/new_clones/NewLisp/EthereumContracts' &
+git clone https://github.com/TranSMS/M2TS '/storage/nvme5/new_clones/NewLisp/M2TS' &
+git clone https://github.com/IBM/RuDaS '/storage/nvme5/new_clones/NewLisp/RuDaS' &
+git clone https://github.com/newlisponrockets/newLISP-on-Rockets '/storage/nvme5/new_clones/NewLisp/newLISP-on-Rockets' &
+git clone https://github.com/haya14busa/misc '/storage/nvme5/new_clones/NewLisp/misc' &
+git clone https://github.com/GiuseppeMarra/nmln '/storage/nvme5/new_clones/NewLisp/nmln' &
+git clone https://github.com/Allfifthstuning/awesome-groff-user-macrosets '/storage/nvme5/new_clones/NewLisp/awesome-groff-user-macrosets' &
+git clone https://github.com/fm-polimi/zot '/storage/nvme5/new_clones/NewLisp/zot' &
+git clone https://github.com/irr/newlisp-labs '/storage/nvme5/new_clones/NewLisp/newlisp-labs' &
+git clone https://github.com/i-machine-think/compositionality_paradox_mt '/storage/nvme5/new_clones/NewLisp/compositionality_paradox_mt' &
+git clone https://github.com/Softcatala/parallel-catalan-corpus '/storage/nvme5/new_clones/NewLisp/parallel-catalan-corpus' &
+git clone https://github.com/SpringHerald/DeepCommenter '/storage/nvme5/new_clones/NewLisp/DeepCommenter' &
+git clone https://github.com/SRI-CSL/imaude '/storage/nvme5/new_clones/NewLisp/imaude' &
+git clone https://github.com/awslabs/multilingual-top '/storage/nvme5/new_clones/NewLisp/multilingual-top' &
+git clone https://github.com/kosh04/newlisp.snippet '/storage/nvme5/new_clones/NewLisp/newlisp.snippet' &
+git clone https://github.com/dgaddy/environment-learning '/storage/nvme5/new_clones/NewLisp/environment-learning' &
+git clone https://github.com/IngoHohmann/newlisp-matrix-client '/storage/nvme5/new_clones/NewLisp/newlisp-matrix-client' &
+git clone https://github.com/luxint/duckdb '/storage/nvme5/new_clones/NewLisp/duckdb' &
+git clone https://github.com/davazp/docker-quicksbcl '/storage/nvme5/new_clones/NewLisp/docker-quicksbcl' &
+git clone https://github.com/ArchiveTeam/ftp-queue '/storage/nvme5/new_clones/NewLisp/ftp-queue' &
+git clone https://github.com/nkmathew/yasi-sexp-indenter '/storage/nvme5/new_clones/NewLisp/yasi-sexp-indenter' &
+git clone https://github.com/PetrGuan/SICP-Answers '/storage/nvme5/new_clones/NewLisp/SICP-Answers' &
+git clone https://github.com/eira-fransham/sexpress '/storage/nvme5/new_clones/NewLisp/sexpress' &

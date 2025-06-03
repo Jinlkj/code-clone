@@ -1,0 +1,30 @@
+#!/bin/bash
+
+git clone https://github.com/historicalsource/planetfall '/storage/nvme5/new_clones/ZAP/planetfall' &
+git clone https://github.com/historicalsource/zork2 '/storage/nvme5/new_clones/ZAP/zork2' &
+git clone https://github.com/historicalsource/hitchhikersguide-gold '/storage/nvme5/new_clones/ZAP/hitchhikersguide-gold' &
+git clone https://github.com/project-chip/zap '/storage/nvme5/new_clones/ZAP/zap' &
+git clone https://github.com/historicalsource/zorkzero '/storage/nvme5/new_clones/ZAP/zorkzero' &
+git clone https://github.com/historicalsource/beyondzork '/storage/nvme5/new_clones/ZAP/beyondzork' &
+git clone https://github.com/historicalsource/restaurant '/storage/nvme5/new_clones/ZAP/restaurant' &
+git clone https://github.com/historicalsource/enchanter '/storage/nvme5/new_clones/ZAP/enchanter' &
+git clone https://github.com/historicalsource/amfv '/storage/nvme5/new_clones/ZAP/amfv' &
+git clone https://github.com/canonical/matter-pi-gpio-commander '/storage/nvme5/new_clones/ZAP/matter-pi-gpio-commander' &
+git clone https://github.com/historicalsource/stationfall '/storage/nvme5/new_clones/ZAP/stationfall' &
+git clone https://github.com/historicalsource/sherlock '/storage/nvme5/new_clones/ZAP/sherlock' &
+git clone https://github.com/historicalsource/abyss '/storage/nvme5/new_clones/ZAP/abyss' &
+git clone https://github.com/historicalsource/leathergoddesses '/storage/nvme5/new_clones/ZAP/leathergoddesses' &
+git clone https://github.com/historicalsource/witness '/storage/nvme5/new_clones/ZAP/witness' &
+git clone https://github.com/historicalsource/sorcerer '/storage/nvme5/new_clones/ZAP/sorcerer' &
+git clone https://github.com/historicalsource/cutthroats '/storage/nvme5/new_clones/ZAP/cutthroats' &
+git clone https://github.com/historicalsource/shogun '/storage/nvme5/new_clones/ZAP/shogun' &
+git clone https://github.com/historicalsource/plunderedhearts '/storage/nvme5/new_clones/ZAP/plunderedhearts' &
+git clone https://github.com/historicalsource/planetfall-gold '/storage/nvme5/new_clones/ZAP/planetfall-gold' &
+git clone https://github.com/historicalsource/journey '/storage/nvme5/new_clones/ZAP/journey' &
+git clone https://github.com/historicalsource/moonmist '/storage/nvme5/new_clones/ZAP/moonmist' &
+git clone https://github.com/historicalsource/seastalker '/storage/nvme5/new_clones/ZAP/seastalker' &
+git clone https://github.com/historicalsource/minizork2-1988 '/storage/nvme5/new_clones/ZAP/minizork2-1988' &
+git clone https://github.com/historicalsource/checkpoint '/storage/nvme5/new_clones/ZAP/checkpoint' &
+git clone https://github.com/ZoBoRf/ZILCH-How-to '/storage/nvme5/new_clones/ZAP/ZILCH-How-to' &
+git clone https://github.com/hendrycks/jiminy-cricket '/storage/nvme5/new_clones/ZAP/jiminy-cricket' &
+git clone https://github.com/martelmy/NCS_examples '/storage/nvme5/new_clones/ZAP/NCS_examples' &

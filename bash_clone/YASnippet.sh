@@ -1,0 +1,29 @@
+#!/bin/bash
+
+git clone https://github.com/doomemacs/snippets '/storage/nvme5/new_clones/YASnippet/snippets' &
+git clone https://github.com/buildersbrewery/linden-scripting-language '/storage/nvme5/new_clones/YASnippet/linden-scripting-language' &
+git clone https://github.com/UndeadKernel/emacs_doom_private '/storage/nvme5/new_clones/YASnippet/emacs_doom_private' &
+git clone https://github.com/johnmastro/react-snippets.el '/storage/nvme5/new_clones/YASnippet/react-snippets.el' &
+git clone https://github.com/nowislewis/nowisemacs '/storage/nvme5/new_clones/YASnippet/nowisemacs' &
+git clone https://github.com/mrkkrp/common-lisp-snippets '/storage/nvme5/new_clones/YASnippet/common-lisp-snippets' &
+git clone https://github.com/JEG2/dotfiles '/storage/nvme5/new_clones/YASnippet/dotfiles' &
+git clone https://github.com/guilhermecomum/emacs.d '/storage/nvme5/new_clones/YASnippet/emacs.d' &
+git clone https://github.com/snosov1/dot-emacs '/storage/nvme5/new_clones/YASnippet/dot-emacs' &
+git clone https://github.com/Brettm12345/doom-emacs-literate-config '/storage/nvme5/new_clones/YASnippet/doom-emacs-literate-config' &
+git clone https://github.com/arecker/emacs.d '/storage/nvme5/new_clones/YASnippet/emacs.d' &
+git clone https://github.com/TimothyYe/doom-emacs '/storage/nvme5/new_clones/YASnippet/doom-emacs' &
+git clone https://github.com/WMaxZimmerman/dnd-mode '/storage/nvme5/new_clones/YASnippet/dnd-mode' &
+git clone https://github.com/niklaseklund/presentations '/storage/nvme5/new_clones/YASnippet/presentations' &
+git clone https://github.com/karthink/yasnippets '/storage/nvme5/new_clones/YASnippet/yasnippets' &
+git clone https://github.com/benswift/.dotfiles '/storage/nvme5/new_clones/YASnippet/.dotfiles' &
+git clone https://github.com/mohkale/emacs '/storage/nvme5/new_clones/YASnippet/emacs' &
+git clone https://github.com/ema2159/emmacs_config '/storage/nvme5/new_clones/YASnippet/emmacs_config' &
+git clone https://github.com/baron42bba/aws-snippets '/storage/nvme5/new_clones/YASnippet/aws-snippets' &
+git clone https://github.com/MooersLab/orgpymolpysnips '/storage/nvme5/new_clones/YASnippet/orgpymolpysnips' &
+git clone https://github.com/lifelike/Dungeon-World-Org-Mode '/storage/nvme5/new_clones/YASnippet/Dungeon-World-Org-Mode' &
+git clone https://github.com/MooersLab/snippet-org-mode '/storage/nvme5/new_clones/YASnippet/snippet-org-mode' &
+git clone https://github.com/Helw150/dot-files '/storage/nvme5/new_clones/YASnippet/dot-files' &
+git clone https://github.com/neppramod/emacs-configuration '/storage/nvme5/new_clones/YASnippet/emacs-configuration' &
+git clone https://github.com/jwinder/emacs-config '/storage/nvme5/new_clones/YASnippet/emacs-config' &
+git clone https://github.com/kskkwn/.emacs.d '/storage/nvme5/new_clones/YASnippet/.emacs.d' &
+git clone https://github.com/hieutkt/emacs-config '/storage/nvme5/new_clones/YASnippet/emacs-config' &

@@ -1,0 +1,4 @@
+git clone https://github.com/textmate/movable-type.tmbundle,none,12
+git clone https://github.com/danwolfgang/melody-theme-patrick,none,8
+git clone https://github.com/movabletype/mt-theme-rainier,mit,6
+git clone https://github.com/movabletype/mt-theme-eiger,mit,6

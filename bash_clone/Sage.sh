@@ -1,0 +1,35 @@
+#!/bin/bash
+
+git clone https://github.com/lducas/SchnorrGate '/storage/nvme5/new_clones/Sage/SchnorrGate' &
+git clone https://github.com/pcw109550/write-up '/storage/nvme5/new_clones/Sage/write-up' &
+git clone https://github.com/defund/coppersmith '/storage/nvme5/new_clones/Sage/coppersmith' &
+git clone https://github.com/rkm0959/Inequality_Solving_with_CVP '/storage/nvme5/new_clones/Sage/Inequality_Solving_with_CVP' &
+git clone https://github.com/pwang00/Cryptographic-Attacks '/storage/nvme5/new_clones/Sage/Cryptographic-Attacks' &
+git clone https://github.com/GiacomoPope/Castryck-Decru-SageMath '/storage/nvme5/new_clones/Sage/Castryck-Decru-SageMath' &
+git clone https://github.com/josephsurin/lattice-based-cryptanalysis '/storage/nvme5/new_clones/Sage/lattice-based-cryptanalysis' &
+git clone https://github.com/Ariana1729/RSA-is-alive '/storage/nvme5/new_clones/Sage/RSA-is-alive' &
+git clone https://github.com/erhant/moonmath '/storage/nvme5/new_clones/Sage/moonmath' &
+git clone https://github.com/hyunsikjeong/LLL '/storage/nvme5/new_clones/Sage/LLL' &
+git clone https://github.com/zcash/pasta '/storage/nvme5/new_clones/Sage/pasta' &
+git clone https://github.com/sipa/writeups '/storage/nvme5/new_clones/Sage/writeups' &
+git clone https://github.com/sagemathinc/cocalc-example-files '/storage/nvme5/new_clones/Sage/cocalc-example-files' &
+git clone https://github.com/lducas/leaky-LWE-Estimator '/storage/nvme5/new_clones/Sage/leaky-LWE-Estimator' &
+git clone https://github.com/microsoft/SIKE-challenges '/storage/nvme5/new_clones/Sage/SIKE-challenges' &
+git clone https://github.com/daira/curvesearch '/storage/nvme5/new_clones/Sage/curvesearch' &
+git clone https://github.com/daira/pluto-eris '/storage/nvme5/new_clones/Sage/pluto-eris' &
+git clone https://github.com/security-kouza/Lattice-Attacks-on-EC-DSA '/storage/nvme5/new_clones/Sage/Lattice-Attacks-on-EC-DSA' &
+git clone https://github.com/kste/keycommitment '/storage/nvme5/new_clones/Sage/keycommitment' &
+git clone https://github.com/daira/tweedle '/storage/nvme5/new_clones/Sage/tweedle' &
+git clone https://github.com/pcw109550/my-ctf-challenges '/storage/nvme5/new_clones/Sage/my-ctf-challenges' &
+git clone https://github.com/chunqiugame/cqb_writeups '/storage/nvme5/new_clones/Sage/cqb_writeups' &
+git clone https://github.com/rub-hgi/shorter_linear_slps_for_mds_matrices '/storage/nvme5/new_clones/Sage/shorter_linear_slps_for_mds_matrices' &
+git clone https://github.com/KULeuven-COSIC/Marvellous '/storage/nvme5/new_clones/Sage/Marvellous' &
+git clone https://github.com/daira/jubjub '/storage/nvme5/new_clones/Sage/jubjub' &
+git clone https://github.com/khanhcrypto/LBZKP '/storage/nvme5/new_clones/Sage/LBZKP' &
+git clone https://github.com/okazymyrov/MDS '/storage/nvme5/new_clones/Sage/MDS' &
+git clone https://github.com/maple3142/nctfu-lattice '/storage/nvme5/new_clones/Sage/nctfu-lattice' &
+git clone https://github.com/microsoft/SuperSolver '/storage/nvme5/new_clones/Sage/SuperSolver' &
+git clone https://github.com/ludopulles/hawk-aux '/storage/nvme5/new_clones/Sage/hawk-aux' &
+git clone https://github.com/GiongfNef/Blogs '/storage/nvme5/new_clones/Sage/Blogs' &
+git clone https://github.com/Nashtare/curve_experiments '/storage/nvme5/new_clones/Sage/curve_experiments' &
+git clone https://github.com/juliannowakowski/crtrsa-small-e-pke '/storage/nvme5/new_clones/Sage/crtrsa-small-e-pke' &

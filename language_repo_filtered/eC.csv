@@ -1,0 +1,8 @@
+git clone https://github.com/ecere/ecere-sdk,other,369
+git clone https://github.com/alleystoughton/EasyTeach,none,24
+git clone https://github.com/tfaoliveira/libjc,none,19
+git clone https://github.com/santana/ruby-informix,other,17
+git clone https://github.com/ecere/fractals,bsd-3-clause,10
+git clone https://github.com/SRI-CSL/high-assurance-crypto,none,10
+git clone https://github.com/ecere/chess,bsd-3-clause,9
+git clone https://github.com/formosa-crypto/libjbn,none,7

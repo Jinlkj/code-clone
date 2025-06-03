@@ -1,0 +1,17 @@
+git clone https://github.com/rstudio/rmarkdown-book,other,785
+git clone https://github.com/tidymodels/TMwR,other,608
+git clone https://github.com/rstudio/rmarkdown-cookbook,none,593
+git clone https://github.com/XiangyunHuang/ElegantBookdown,cc-by-4.0,135
+git clone https://github.com/njtierney/rmd4sci,other,128
+git clone https://github.com/aviatesk/intro-statistical-modeling,none,89
+git clone https://github.com/ipeaGIT/intro_access_book,none,78
+git clone https://github.com/XiangyunHuang/notesdown,other,75
+git clone https://github.com/jmcastagnetto/covid-19-peru-data,mit,45
+git clone https://github.com/ecoinfAEET/Reproducibilidad,none,42
+git clone https://github.com/Pakillo/ReproducibleScience,other,23
+git clone https://github.com/SMaRTWorkshops/r4ss,cc-by-4.0,22
+git clone https://github.com/Thomas-George-T/Social-Media-Analytics-in-R,none,11
+git clone https://github.com/nrennie/2022-table-contest,cc-by-4.0,8
+git clone https://github.com/annadalmolin/CRAFT,other,8
+git clone https://github.com/tsamsonov/arcgis-course,cc0-1.0,8
+git clone https://github.com/nrennie/R-Ladies,cc-by-4.0,6

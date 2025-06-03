@@ -1,0 +1,34 @@
+#!/bin/bash
+
+git clone https://github.com/OpenCollarTeam/OpenCollar '/storage/nvme5/new_clones/LSL/OpenCollar' &
+git clone https://github.com/AVsitter/AVsitter '/storage/nvme5/new_clones/LSL/AVsitter' &
+git clone https://github.com/Outworldz/LSL-Scripts '/storage/nvme5/new_clones/LSL/LSL-Scripts' &
+git clone https://github.com/OpenCollar/opencollar '/storage/nvme5/new_clones/LSL/opencollar' &
+git clone https://github.com/RuthAndRoth/Ruth2 '/storage/nvme5/new_clones/LSL/Ruth2' &
+git clone https://github.com/TBGRenfold/discord-lsl '/storage/nvme5/new_clones/LSL/discord-lsl' &
+git clone https://github.com/nPoseTeam/nPose-V3 '/storage/nvme5/new_clones/LSL/nPose-V3' &
+git clone https://github.com/SoloMornington/Solos-Script-Repository '/storage/nvme5/new_clones/LSL/Solos-Script-Repository' &
+git clone https://github.com/JasXSL/SL-XOBJ '/storage/nvme5/new_clones/LSL/SL-XOBJ' &
+git clone https://github.com/John-Nagle/lslutils '/storage/nvme5/new_clones/LSL/lslutils' &
+git clone https://github.com/SLScriptersGroup/SL-RP-HUD '/storage/nvme5/new_clones/LSL/SL-RP-HUD' &
+git clone https://github.com/cuga-rajal/supercar_plus '/storage/nvme5/new_clones/LSL/supercar_plus' &
+git clone https://github.com/liftedpixel/lslscripts '/storage/nvme5/new_clones/LSL/lslscripts' &
+git clone https://github.com/nPoseTeam/nPose-V4 '/storage/nvme5/new_clones/LSL/nPose-V4' &
+git clone https://github.com/SatyrFarm/SatyrFarm '/storage/nvme5/new_clones/LSL/SatyrFarm' &
+git clone https://github.com/nPoseTeam/nPose-V2 '/storage/nvme5/new_clones/LSL/nPose-V2' &
+git clone https://github.com/KellyKP/Secondlife-Merchant-ANS '/storage/nvme5/new_clones/LSL/Secondlife-Merchant-ANS' &
+git clone https://github.com/OpenCollar/OpenCollarOwnerHud '/storage/nvme5/new_clones/LSL/OpenCollarOwnerHud' &
+git clone https://github.com/JasXSL/JasX-HUD '/storage/nvme5/new_clones/LSL/JasX-HUD' &
+git clone https://github.com/bird-get/lsl-shell '/storage/nvme5/new_clones/LSL/lsl-shell' &
+git clone https://github.com/AvaCon/LSL-OpenSim-Script-Library '/storage/nvme5/new_clones/LSL/LSL-OpenSim-Script-Library' &
+git clone https://github.com/JasXSL/GoThongs '/storage/nvme5/new_clones/LSL/GoThongs' &
+git clone https://github.com/SaladDais/tailslide '/storage/nvme5/new_clones/LSL/tailslide' &
+git clone https://github.com/Zetaphor/second-life-lsl '/storage/nvme5/new_clones/LSL/second-life-lsl' &
+git clone https://github.com/rptb1/sl-forth '/storage/nvme5/new_clones/LSL/sl-forth' &
+git clone https://github.com/ebickle/lsl-vscode '/storage/nvme5/new_clones/LSL/lsl-vscode' &
+git clone https://github.com/uriesk/opensim-body-scripts '/storage/nvme5/new_clones/LSL/opensim-body-scripts' &
+git clone https://github.com/JasXSL/ObstacleScript '/storage/nvme5/new_clones/LSL/ObstacleScript' &
+git clone https://github.com/cuga-rajal/translator '/storage/nvme5/new_clones/LSL/translator' &
+git clone https://github.com/without-ordinary/stripfight '/storage/nvme5/new_clones/LSL/stripfight' &
+git clone https://github.com/OpenNC/Cuffs '/storage/nvme5/new_clones/LSL/Cuffs' &
+git clone https://github.com/arbitar/rife-lsl '/storage/nvme5/new_clones/LSL/rife-lsl' &

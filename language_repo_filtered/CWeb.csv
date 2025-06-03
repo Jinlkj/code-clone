@@ -1,0 +1,14 @@
+git clone https://github.com/PaulBatchelor/voc,none,152
+git clone https://github.com/ascherer/cweb,none,88
+git clone https://github.com/arcfide/ChezWEB,none,45
+git clone https://github.com/ascherer/mmix,none,41
+git clone https://github.com/ganelson/intest,artistic-2.0,40
+git clone https://github.com/shreevatsa/knuth-literate-programs,none,36
+git clone https://github.com/ascherer/sgb,none,29
+git clone https://github.com/scottprahl/iad,mit,23
+git clone https://github.com/Fourmilab/blockchain_tools,other,14
+git clone https://github.com/scottprahl/mie,bsd-3-clause,12
+git clone https://github.com/fredyouhanaie/etclface,other,9
+git clone https://github.com/igor-liferenko/tex,none,8
+git clone https://github.com/PaulBatchelor/libline,other,6
+git clone https://github.com/ascherer/cwebtest,none,6

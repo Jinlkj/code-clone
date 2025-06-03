@@ -1,0 +1,9 @@
+git clone https://github.com/intel/oneapi-containers,bsd-3-clause,125
+git clone https://github.com/singularityhub/github-ci,mpl-2.0,68
+git clone https://github.com/mkandes/naked-singularity,none,64
+git clone https://github.com/singularityhub/singularity-deploy,mpl-2.0,16
+git clone https://github.com/singularityhub/jupyter,mit,13
+git clone https://github.com/singularityhub/singularity-catalog,mit,10
+git clone https://github.com/onnovalkering/vscode-singularity,mit,8
+git clone https://github.com/m-wierzba/cat-container,mit,7
+git clone https://github.com/UPPMAX/uppmax_in_a_can,none,7

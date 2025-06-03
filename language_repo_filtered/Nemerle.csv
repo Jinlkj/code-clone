@@ -1,0 +1,15 @@
+git clone https://github.com/rsdn/nemerle,other,622
+git clone https://github.com/JetBrains/Nitra,other,554
+git clone https://github.com/rsdn/nitra,apache-2.0,146
+git clone https://github.com/philiplaureano/Tao,none,38
+git clone https://github.com/AxGord/hx-unity3d,none,35
+git clone https://github.com/aaulia/repack,none,15
+git clone https://github.com/rsdn/Nitra-Mini-C,bsd-2-clause,14
+git clone https://github.com/pekabon/LogGrok,ms-pl,14
+git clone https://github.com/rampelstinskin/ParserGenerator,none,14
+git clone https://github.com/as3boyan/as3tohxfromcaffeine-hx,none,13
+git clone https://github.com/tcltk/tdbc,other,11
+git clone https://github.com/Vj3k0/robothaxe-utilities-StateMachine,mit,8
+git clone https://github.com/VladD2/Nemerle-Articles,none,8
+git clone https://github.com/antagonist112358/fireball,none,7
+git clone https://github.com/TomBebbington/haxin,none,6

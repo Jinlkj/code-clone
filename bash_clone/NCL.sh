@@ -1,0 +1,34 @@
+#!/bin/bash
+
+git clone https://github.com/nickel-lang/organist '/storage/nvme5/new_clones/NCL/organist' &
+git clone https://github.com/ESMValGroup/ESMValTool '/storage/nvme5/new_clones/NCL/ESMValTool' &
+git clone https://github.com/dongli/china-shapefiles '/storage/nvme5/new_clones/NCL/china-shapefiles' &
+git clone https://github.com/Dnawrkshp/ArtemisPS3 '/storage/nvme5/new_clones/NCL/ArtemisPS3' &
+git clone https://github.com/NCAR/CESM_postprocessing '/storage/nvme5/new_clones/NCL/CESM_postprocessing' &
+git clone https://github.com/NCAR/container-wrf '/storage/nvme5/new_clones/NCL/container-wrf' &
+git clone https://github.com/anikfal/postwrf '/storage/nvme5/new_clones/NCL/postwrf' &
+git clone https://github.com/gavin971/NCL_meteorology_libs '/storage/nvme5/new_clones/NCL/NCL_meteorology_libs' &
+git clone https://github.com/samwisehawkins/wrftools '/storage/nvme5/new_clones/NCL/wrftools' &
+git clone https://github.com/lzhenn/tracacode '/storage/nvme5/new_clones/NCL/tracacode' &
+git clone https://github.com/NCAR/CVDP-ncl '/storage/nvme5/new_clones/NCL/CVDP-ncl' &
+git clone https://github.com/bthrasher/daily_BCSD '/storage/nvme5/new_clones/NCL/daily_BCSD' &
+git clone https://github.com/keenmisty/WRF '/storage/nvme5/new_clones/NCL/WRF' &
+git clone https://github.com/blcc/ncl_plots '/storage/nvme5/new_clones/NCL/ncl_plots' &
+git clone https://github.com/eaburakowski/NOHRSC_SNODAS '/storage/nvme5/new_clones/NCL/NOHRSC_SNODAS' &
+git clone https://github.com/tweag/nickel-kubernetes '/storage/nvme5/new_clones/NCL/nickel-kubernetes' &
+git clone https://github.com/wrf-model/WRFDA_TOOLS '/storage/nvme5/new_clones/NCL/WRFDA_TOOLS' &
+git clone https://github.com/xufive/2020Pyday '/storage/nvme5/new_clones/NCL/2020Pyday' &
+git clone https://github.com/NCAR/fire-indices '/storage/nvme5/new_clones/NCL/fire-indices' &
+git clone https://github.com/NCAR/IPT '/storage/nvme5/new_clones/NCL/IPT' &
+git clone https://github.com/ufs-community/regional_workflow '/storage/nvme5/new_clones/NCL/regional_workflow' &
+git clone https://github.com/sunsanxia/NCL-for-CMAQ '/storage/nvme5/new_clones/NCL/NCL-for-CMAQ' &
+git clone https://github.com/NCAR/CVDP-LE '/storage/nvme5/new_clones/NCL/CVDP-LE' &
+git clone https://github.com/JGCRI/CMIP5_patterns '/storage/nvme5/new_clones/NCL/CMIP5_patterns' &
+git clone https://github.com/karafede/WRF_Chem '/storage/nvme5/new_clones/NCL/WRF_Chem' &
+git clone https://github.com/zarzycki/ExTraTrack '/storage/nvme5/new_clones/NCL/ExTraTrack' &
+git clone https://github.com/upuil/NCL_script '/storage/nvme5/new_clones/NCL/NCL_script' &
+git clone https://github.com/sfalmo/rasp-from-scratch '/storage/nvme5/new_clones/NCL/rasp-from-scratch' &
+git clone https://github.com/terrayl/Dynamico '/storage/nvme5/new_clones/NCL/Dynamico' &
+git clone https://github.com/WxAnalyst/pih-ncl-scripts '/storage/nvme5/new_clones/NCL/pih-ncl-scripts' &
+git clone https://github.com/yyr/ncl-lib '/storage/nvme5/new_clones/NCL/ncl-lib' &
+git clone https://github.com/NordicESMhub/noresmdiagnostics '/storage/nvme5/new_clones/NCL/noresmdiagnostics' &

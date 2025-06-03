@@ -1,0 +1,7 @@
+git clone https://github.com/tecosaur/emacs-config,mit,1042
+git clone https://github.com/elken/doom,mit,82
+git clone https://github.com/tecosaur/this-month-in-org,mit,44
+git clone https://github.com/Phundrak/config.phundrak.com,other,34
+git clone https://github.com/iliayar/ITMO,other,12
+git clone https://github.com/ymherklotz/dotfiles,mit,9
+git clone https://github.com/noncog/github-org-mode-hacks,none,6

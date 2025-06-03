@@ -1,0 +1,11 @@
+git clone https://github.com/Shen-Language/shen-sources,other,366
+git clone https://github.com/hraberg/shen.clj,other,155
+git clone https://github.com/vasil-sd/shen-libs,none,148
+git clone https://github.com/akunull/piloslib,mit,141
+git clone https://github.com/tizoc/shen-scheme,other,107
+git clone https://github.com/gregspurrier/shen-ruby,other,77
+git clone https://github.com/otabat/shen-jvm,none,28
+git clone https://github.com/mthom/shen-minikanren,other,25
+git clone https://github.com/deech/lambdaconf-shen-talk,none,15
+git clone https://github.com/jasonhemann/microKanren-shen,mit,10
+git clone https://github.com/tizoc/shen-batteries,other,7

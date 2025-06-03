@@ -1,0 +1,16 @@
+git clone https://github.com/chapel-lang/chapel,other,1829
+git clone https://github.com/briangu/chearch,mit,32
+git clone https://github.com/pnnl/chgl,mit,29
+git clone https://github.com/Bears-R-Us/arkouda-njit,mit,21
+git clone https://github.com/ahayashi/chapel-gpu,other,19
+git clone https://github.com/briangu/chord,none,16
+git clone https://github.com/LouisJenkinsCS/Distributed-Data-Structures,bsd-3-clause,15
+git clone https://github.com/Aniket21mathur/Chapel-protobuf,mit,13
+git clone https://github.com/tcarneirop/ChOp,bsd-3-clause,12
+git clone https://github.com/ct-clmsn/CHIUW2017,none,10
+git clone https://github.com/chapeldev/cdo,apache-2.0,10
+git clone https://github.com/marcoscleison/chapel-http,apache-2.0,8
+git clone https://github.com/chapel-lang/chapel-attic,other,8
+git clone https://github.com/ljdursi/julia_v_chapel,cc-by-4.0,7
+git clone https://github.com/marcoscleison/chapel-python,apache-2.0,7
+git clone https://github.com/npadmana/DistributedFFT,none,6

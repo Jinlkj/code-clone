@@ -1,0 +1,6 @@
+git clone https://github.com/bendmorris/krit-kit,mit,17
+git clone https://github.com/OneIdentity/Polypkg,bsd-3-clause,15
+git clone https://github.com/bendmorris/neskit,none,9
+git clone https://github.com/Gamerfiend/kit-ecs,mit,8
+git clone https://github.com/Gamerfiend/raykit,mit,8
+git clone https://github.com/calvinjuarez/SVG-Awesome,none,6

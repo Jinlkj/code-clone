@@ -1,0 +1,13 @@
+git clone https://github.com/tu-lang/tu,other,167
+git clone https://github.com/D-PLACE/dplace-data,cc-by-4.0,80
+git clone https://github.com/omegahat/RCurl,other,29
+git clone https://github.com/duncantl/RCUDA,other,20
+git clone https://github.com/omegahat/XML,other,20
+git clone https://github.com/gmbecker/RBrowserPlugin,none,15
+git clone https://github.com/omegahat/Rcompression,other,13
+git clone https://github.com/Whiteknight/parrot-linear-algebra,artistic-2.0,13
+git clone https://github.com/danlwarren/Evolution-2019-Phylogenetic-Methods-Workshop,none,13
+git clone https://github.com/zsweet/Design-and-Implementation-of-Online-Judge-Semantic-Checking-System-Based-on-Abstract-Syntax-Tree,none,13
+git clone https://github.com/fperrad/wmlscript,artistic-2.0,7
+git clone https://github.com/boladjivinny/olpy,mit,6
+git clone https://github.com/rogerioag/minicurso-openmp-wscad-2017,none,6

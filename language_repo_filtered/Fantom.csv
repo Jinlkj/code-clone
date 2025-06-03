@@ -1,0 +1,13 @@
+git clone https://github.com/fanx-dev/fanx,afl-3.0,171
+git clone https://github.com/fantom-lang/fantom,afl-3.0,135
+git clone https://github.com/Project-Haystack/haystack-defs,afl-3.0,67
+git clone https://github.com/haxall/haxall,afl-3.0,57
+git clone https://github.com/xored/f4,none,30
+git clone https://github.com/fanx-dev/vase,afl-3.0,15
+git clone https://github.com/fanx-dev/axdb2,none,13
+git clone https://github.com/briansfrank/proto,none,9
+git clone https://github.com/radovanbauer/eulerFantom,none,7
+git clone https://github.com/NREL/psychrometricsExt,other,7
+git clone https://github.com/xored/jsonrpc,none,7
+git clone https://github.com/chunquedong/fmake,none,6
+git clone https://github.com/rexim/fantom2048,none,6

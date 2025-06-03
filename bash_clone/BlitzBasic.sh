@@ -1,0 +1,32 @@
+#!/bin/bash
+
+git clone https://github.com/1N3/IntruderPayloads '/storage/nvme5/new_clones/BlitzBasic/IntruderPayloads' &
+git clone https://github.com/Regalis11/scpcb '/storage/nvme5/new_clones/BlitzBasic/scpcb' &
+git clone https://github.com/six2dez/burp-bounty-profiles '/storage/nvme5/new_clones/BlitzBasic/burp-bounty-profiles' &
+git clone https://github.com/Sy3Omda/burp-bounty '/storage/nvme5/new_clones/BlitzBasic/burp-bounty' &
+git clone https://github.com/ghsec/BBProfiles '/storage/nvme5/new_clones/BlitzBasic/BBProfiles' &
+git clone https://github.com/zer0yu/BugBounty '/storage/nvme5/new_clones/BlitzBasic/BugBounty' &
+git clone https://github.com/R-s0n/Custom_Vuln_Scan_Templates '/storage/nvme5/new_clones/BlitzBasic/Custom_Vuln_Scan_Templates' &
+git clone https://github.com/Jabka666/scpcb-ue-my '/storage/nvme5/new_clones/BlitzBasic/scpcb-ue-my' &
+git clone https://github.com/earok/BlitzBasicDemos '/storage/nvme5/new_clones/BlitzBasic/BlitzBasicDemos' &
+git clone https://github.com/Angstrom-distribution/meta-ti '/storage/nvme5/new_clones/BlitzBasic/meta-ti' &
+git clone https://github.com/openwebos/meta-webos '/storage/nvme5/new_clones/BlitzBasic/meta-webos' &
+git clone https://github.com/maninfire/ruimyfuzzer '/storage/nvme5/new_clones/BlitzBasic/ruimyfuzzer' &
+git clone https://github.com/matt-noonan/retypd-data '/storage/nvme5/new_clones/BlitzBasic/retypd-data' &
+git clone https://github.com/ttyborg/Stranded2 '/storage/nvme5/new_clones/BlitzBasic/Stranded2' &
+git clone https://github.com/GitlXl/fgzz '/storage/nvme5/new_clones/BlitzBasic/fgzz' &
+git clone https://github.com/project-magpie/meta-stlinux '/storage/nvme5/new_clones/BlitzBasic/meta-stlinux' &
+git clone https://github.com/ebutera/meta-igep '/storage/nvme5/new_clones/BlitzBasic/meta-igep' &
+git clone https://github.com/ZiYueCommentary/scpcb-chinese '/storage/nvme5/new_clones/BlitzBasic/scpcb-chinese' &
+git clone https://github.com/Pakz001/Blitz3d '/storage/nvme5/new_clones/BlitzBasic/Blitz3d' &
+git clone https://github.com/neo-technologies/meta-rockchip '/storage/nvme5/new_clones/BlitzBasic/meta-rockchip' &
+git clone https://github.com/Syllenze/Blitz3D-Sonic-World-Engine '/storage/nvme5/new_clones/BlitzBasic/Blitz3D-Sonic-World-Engine' &
+git clone https://github.com/nitrologic/bbarchives '/storage/nvme5/new_clones/BlitzBasic/bbarchives' &
+git clone https://github.com/blazeinfosec/burpbounty-profiles '/storage/nvme5/new_clones/BlitzBasic/burpbounty-profiles' &
+git clone https://github.com/AlexCeleste/bOGL-2 '/storage/nvme5/new_clones/BlitzBasic/bOGL-2' &
+git clone https://github.com/nojgosu/meta-xenomai '/storage/nvme5/new_clones/BlitzBasic/meta-xenomai' &
+git clone https://github.com/benkeks/dgx9142 '/storage/nvme5/new_clones/BlitzBasic/dgx9142' &
+git clone https://github.com/wallacezq/fbtft-yocto-recipe '/storage/nvme5/new_clones/BlitzBasic/fbtft-yocto-recipe' &
+git clone https://github.com/e8johan/meta-diet '/storage/nvme5/new_clones/BlitzBasic/meta-diet' &
+git clone https://github.com/wiebow/guide '/storage/nvme5/new_clones/BlitzBasic/guide' &
+git clone https://github.com/MikhailZinovkin/dm368ipnc '/storage/nvme5/new_clones/BlitzBasic/dm368ipnc' &

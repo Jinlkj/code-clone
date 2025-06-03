@@ -1,0 +1,7 @@
+git clone https://github.com/NuclearDevelopers/Dichromate,bsd-3-clause-clear,17
+git clone https://github.com/GregorR/musl-pkgsrc-patches,none,15
+git clone https://github.com/instantinfrastructure/edison-src,none,10
+git clone https://github.com/goiri/ApproxHadoop,other,8
+git clone https://github.com/mklab/gnuplot-android,none,8
+git clone https://github.com/soapdog/b2g-mips,none,8
+git clone https://github.com/twelveeighty/broadcom-wl-dkms,none,8

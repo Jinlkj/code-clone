@@ -1,0 +1,37 @@
+#!/bin/bash
+
+git clone https://github.com/olivierlacan/keep-a-changelog '/storage/nvme5/new_clones/Haml/keep-a-changelog' &
+git clone https://github.com/ASCIIwwdc/asciiwwdc.com '/storage/nvme5/new_clones/Haml/asciiwwdc.com' &
+git clone https://github.com/infinum/cookies_eu '/storage/nvme5/new_clones/Haml/cookies_eu' &
+git clone https://github.com/rvm/rvm-site '/storage/nvme5/new_clones/Haml/rvm-site' &
+git clone https://github.com/rubygems/bundler-site '/storage/nvme5/new_clones/Haml/bundler-site' &
+git clone https://github.com/ryanfb/loebolus '/storage/nvme5/new_clones/Haml/loebolus' &
+git clone https://github.com/ddavison/github-badges '/storage/nvme5/new_clones/Haml/github-badges' &
+git clone https://github.com/projectatomic/atomic-site '/storage/nvme5/new_clones/Haml/atomic-site' &
+git clone https://github.com/taw/magic-search-engine '/storage/nvme5/new_clones/Haml/magic-search-engine' &
+git clone https://github.com/redhat-openstack/website '/storage/nvme5/new_clones/Haml/website' &
+git clone https://github.com/jemcode/rails_admin_history_rollback '/storage/nvme5/new_clones/Haml/rails_admin_history_rollback' &
+git clone https://github.com/gma/nestacms.com '/storage/nvme5/new_clones/Haml/nestacms.com' &
+git clone https://github.com/mpv-player/mpv.io '/storage/nvme5/new_clones/Haml/mpv.io' &
+git clone https://github.com/lab2023/lab2023.com '/storage/nvme5/new_clones/Haml/lab2023.com' &
+git clone https://github.com/railsbridge/railsbridge_dot_org '/storage/nvme5/new_clones/Haml/railsbridge_dot_org' &
+git clone https://github.com/bionomia/bionomia '/storage/nvme5/new_clones/Haml/bionomia' &
+git clone https://github.com/tasuki/tsumego-web '/storage/nvme5/new_clones/Haml/tsumego-web' &
+git clone https://github.com/gorenje/tankmeister '/storage/nvme5/new_clones/Haml/tankmeister' &
+git clone https://github.com/openpprn/opn '/storage/nvme5/new_clones/Haml/opn' &
+git clone https://github.com/htop-dev/htop-dev.github.io '/storage/nvme5/new_clones/Haml/htop-devhub.io' &
+git clone https://github.com/nwspk/web '/storage/nvme5/new_clones/Haml/web' &
+git clone https://github.com/haml/haml-site '/storage/nvme5/new_clones/Haml/haml-site' &
+git clone https://github.com/opengeospatial/ontology-crs '/storage/nvme5/new_clones/Haml/ontology-crs' &
+git clone https://github.com/litaio/lita.io '/storage/nvme5/new_clones/Haml/lita.io' &
+git clone https://github.com/CGamesPlay/haml_user_tags '/storage/nvme5/new_clones/Haml/haml_user_tags' &
+git clone https://github.com/tdtds/gracoro-union '/storage/nvme5/new_clones/Haml/gracoro-union' &
+git clone https://github.com/adrianchinghc/adrianchinghc.github.io '/storage/nvme5/new_clones/Haml/adrianchinghchub.io' &
+git clone https://github.com/mint-lang/mint-website-rails '/storage/nvme5/new_clones/Haml/mint-website-rails' &
+git clone https://github.com/flyingmachine/nanoc-blog '/storage/nvme5/new_clones/Haml/nanoc-blog' &
+git clone https://github.com/hybridgroup/gobot-site '/storage/nvme5/new_clones/Haml/gobot-site' &
+git clone https://github.com/performancecopilot/pcp-website '/storage/nvme5/new_clones/Haml/pcp-website' &
+git clone https://github.com/sardjv/publicmoneypubliccode '/storage/nvme5/new_clones/Haml/publicmoneypubliccode' &
+git clone https://github.com/nanobox-io/nanobox-docs '/storage/nvme5/new_clones/Haml/nanobox-docs' &
+git clone https://github.com/arokettu/freedomainzones.netlify.app '/storage/nvme5/new_clones/Haml/freedomainzones.netlify.app' &
+git clone https://github.com/karashiiro/lodestone-when '/storage/nvme5/new_clones/Haml/lodestone-when' &

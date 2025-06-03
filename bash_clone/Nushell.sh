@@ -1,0 +1,34 @@
+#!/bin/bash
+
+git clone https://github.com/nushell/awesome-nu '/storage/nvme5/new_clones/Nushell/awesome-nu' &
+git clone https://github.com/nushell/nu_scripts '/storage/nvme5/new_clones/Nushell/nu_scripts' &
+git clone https://github.com/nushell/nushell.github.io '/storage/nvme5/new_clones/Nushell/nushellhub.io' &
+git clone https://github.com/shopware/production '/storage/nvme5/new_clones/Nushell/production' &
+git clone https://github.com/nushell/vscode-nushell-lang '/storage/nvme5/new_clones/Nushell/vscode-nushell-lang' &
+git clone https://github.com/nushell/nufmt '/storage/nvme5/new_clones/Nushell/nufmt' &
+git clone https://github.com/elvessousa/.dotfiles '/storage/nvme5/new_clones/Nushell/.dotfiles' &
+git clone https://github.com/Jan9103/packer.nu '/storage/nvme5/new_clones/Nushell/packer.nu' &
+git clone https://github.com/kurokirasama/nushell_scripts '/storage/nvme5/new_clones/Nushell/nushell_scripts' &
+git clone https://github.com/thesimonho/dotfiles '/storage/nvme5/new_clones/Nushell/dotfiles' &
+git clone https://github.com/TechWatching/dotfiles '/storage/nvme5/new_clones/Nushell/dotfiles' &
+git clone https://github.com/cyber-prophet/cy '/storage/nvme5/new_clones/Nushell/cy' &
+git clone https://github.com/hustcer/musd '/storage/nvme5/new_clones/Nushell/musd' &
+git clone https://github.com/orf/dotfiles '/storage/nvme5/new_clones/Nushell/dotfiles' &
+git clone https://github.com/nushell/grammar '/storage/nvme5/new_clones/Nushell/grammar' &
+git clone https://github.com/niklas-heer/dotfiles '/storage/nvme5/new_clones/Nushell/dotfiles' &
+git clone https://github.com/razcore-rad/krita-resources '/storage/nvme5/new_clones/Nushell/krita-resources' &
+git clone https://github.com/bfren/docker-ftps '/storage/nvme5/new_clones/Nushell/docker-ftps' &
+git clone https://github.com/dandavison/nushell-config '/storage/nvme5/new_clones/Nushell/nushell-config' &
+git clone https://github.com/kurokirasama/nushell_sublime_syntax '/storage/nvme5/new_clones/Nushell/nushell_sublime_syntax' &
+git clone https://github.com/sirkhancision/dotfiles '/storage/nvme5/new_clones/Nushell/dotfiles' &
+git clone https://github.com/stevenxxiu/sublime_text_nushell '/storage/nvme5/new_clones/Nushell/sublime_text_nushell' &
+git clone https://github.com/chapmanjacobd/phone '/storage/nvme5/new_clones/Nushell/phone' &
+git clone https://github.com/clansty/Clansty '/storage/nvme5/new_clones/Nushell/Clansty' &
+git clone https://github.com/alexmingoia/dotfiles '/storage/nvme5/new_clones/Nushell/dotfiles' &
+git clone https://github.com/ShinyZero0/dotfiles '/storage/nvme5/new_clones/Nushell/dotfiles' &
+git clone https://github.com/MathisWellmann/penrose-personal '/storage/nvme5/new_clones/Nushell/penrose-personal' &
+git clone https://github.com/kaiphat/dotfiles '/storage/nvme5/new_clones/Nushell/dotfiles' &
+git clone https://github.com/deflis/dotfiles '/storage/nvme5/new_clones/Nushell/dotfiles' &
+git clone https://github.com/euclidianAce/dotfiles '/storage/nvme5/new_clones/Nushell/dotfiles' &
+git clone https://github.com/JalonWong/nushell-prompt '/storage/nvme5/new_clones/Nushell/nushell-prompt' &
+git clone https://github.com/KSXGitHub/aur-packages-builder '/storage/nvme5/new_clones/Nushell/aur-packages-builder' &
